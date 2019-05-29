@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html
+  class=""
+  lang="{{ .Site.LanguageCode }}"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{ .Site.Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}style.css" />
+</head>
+<body>
+    <h1>cum</h1>
+    {{ with .Params.videoLink }}        
+    <iframe width="560" height="315" src={{.}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {{ end }}
+    {{ .Content }}
+    <script src="{{ .Site.BaseURL }}script.js"></script>
+</body>
+</html>

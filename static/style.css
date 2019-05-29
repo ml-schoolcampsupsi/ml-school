@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "boldo";
+    src: url("fonts/boldo.ttf")
+}
+
+@font-face {
+    font-family: "corpo";
+    src: url("fonts/corpo.otf")
+}
+
+body {
+    background: blue;
+}
+
+h1 {
+    font-family: boldo;
+}
+
+p {
+    font-family: corpo;
+}
