@@ -38,7 +38,22 @@ body {
 a {
     color: black;
     text-decoration: none;
-    border-bottom: 2px solid #B600FF;    
+    border-bottom: 2px solid #B600FF;        
+}
+
+.cloud {
+    margin-left: 29px;
+}
+
+.cloud::before {
+    content: "";
+    background-image: url(media/cloudia.png);
+    background-size: 23px 23px;
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    left: 0px;
+    margin-top: 4px;
 }
 
 h1,h2 {
@@ -51,9 +66,12 @@ h1 {
 }
 
 h1:after {
+    content: "";
     display: inline-block;
-    width: 50%;
-    border-bottom: 2px solid blue;
+    width: 45%;
+    border-top: 2px solid #00FFD4;
+    margin-left: 4%;
+    height: 13px;
 }
 
 h2 {
