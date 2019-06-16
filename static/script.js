@@ -9,7 +9,7 @@ var h2s = document.querySelectorAll("h2")
 //     h1.nextElementSibling.style.transform = "translateX(" + n + "px)"
 // }
 
-for (let i=1; i<h2s.length; i++) {
+for (let i=0; i<h2s.length; i++) {
     const h2 = h2s[i]
     const n = (Math.floor(Math.random()*5)-1)*DELTA
     h2.style.transform = "translateX(" + n + "px)"    
