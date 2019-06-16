@@ -140,3 +140,17 @@ video {
     line-height: 52px;  
 }
 
+.ziggato:before {
+    content: "";
+    display: inline-block;
+    width: 170px;
+    height: 9px;
+    background: url(media/green-zig.png);
+    background-size: 100%;
+    margin-right: 17px;
+}
+
+.ziggato + p {    
+    margin-left: 187px;
+}
+
