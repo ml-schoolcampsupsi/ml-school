@@ -36,6 +36,7 @@ Giorno 1: lunedì 24
 
 Giorno 2: martedì 25 
 – 08:30 - 10:30: 👂🖐️Transfer learning: come insegnare alla macchine a riconoscere gli oggetti
+
 – 10:30 - 12:00: 👂🖐️introduzione a diversi controlli (controlla shapes, sounds, keyboard )
 – 12:00 - 13:00: 🍕Pausa pranzo
 – 13:00 - 14:00: 👂🖐️Divisione in gruppi e sfida 
