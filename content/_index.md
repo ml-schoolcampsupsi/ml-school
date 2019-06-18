@@ -36,10 +36,10 @@ Giorno 1: lunedì 24
 
 Giorno 2: martedì 25 
 – 08:30 - 10:30: 👂🖐️Transfer learning: come insegnare alla macchine a riconoscere gli oggetti
-– 10:30 - 12:00:  👂🖐️introduzione a diversi controlli (controlla shapes, sounds, keyboard )
+– 10:30 - 12:00: 👂🖐️introduzione a diversi controlli (controlla shapes, sounds, keyboard )
 – 12:00 - 13:00: 🍕Pausa pranzo
-– 13:00 - 14:00:  👂🖐️Divisione in gruppi e sfida 
-– 14:00 - 15:00:  👂🖐️Presentazione delle idee
+– 13:00 - 14:00: 👂🖐️Divisione in gruppi e sfida 
+– 14:00 - 15:00: 👂🖐️Presentazione delle idee
 
 Giorno 3: mercoledì 26
 08:30 - 15:00: 🖐️Lavoro autonomo 
@@ -47,7 +47,7 @@ Giorno 3: mercoledì 26
 Giorno 4: mercoledì 26
 – 08:30 - 12:00: 🖐️Debuggiamo i progetti insieme
 – 13:00 - 14:00: 🖐️Preparazione delle demo dei progetti
-– 14:00 - 15:00:  🎭SHOW
+– 14:00 - 15:00: 🎭SHOW
 
 <!-- ☁️⬇️ -->
 <!-- se vuoi la nuvoletta nel link copia questo html snippet
