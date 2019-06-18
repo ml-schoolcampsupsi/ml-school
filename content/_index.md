@@ -23,8 +23,8 @@ www.grstiftung.ch
 Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning.
 
 Giorno 1: lunedì 24 
-08:30 - 08:45: 👂Presentazione degli obiettivi del camp, dei tutor e dei partecipanti
-08:45 - 09:30: 👂Introduzione al Machine Learning.
+- 08:30 - 08:45: 👂Presentazione degli obiettivi del camp, dei tutor e dei partecipanti
+- 08:45 - 09:30: 👂Introduzione al Machine Learning.
 09:30 - 10:30: 🖐️Trainable machine orchestra: realizzazione di un mini progettino
 10:30 - 10:45: 🍕Pausa
 10:45 - 11:30: 👂🖐️Introduzione agli strumenti del camp: ml5.js e p5.js. 
