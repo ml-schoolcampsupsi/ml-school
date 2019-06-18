@@ -66,4 +66,3 @@ Il camp dura quattro giorni e combina lezione teoriche e pratica e attività fin
 <!-- se vuoi la nuvoletta nel link copia questo html snippet
 e cambia href (link) e contenuto -->
 <a class="cloud" href="files/mockup.pdf">Scarica il programma qui</a>
-
