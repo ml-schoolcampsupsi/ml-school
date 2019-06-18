@@ -35,17 +35,11 @@ Giorno 1: lunedì 24
 - 14:10 - 15:00: 👂🖐️Approfondimento di ml5.js: la classificazione e il continuous camera feed.
 
 Giorno 2: martedì 25 
-
 – 08:30 - 10:30: 👂🖐️Transfer learning: come insegnare alla macchine a riconoscere gli oggetti
-
 – 10:30 - 12:00: 👂🖐️introduzione a diversi controlli (forme, suoni, tastiera)
-
 – 12:00 - 13:00: 🍕Pausa pranzo
-
 – 13:00 - 14:00: 👂🖐️Divisione in gruppi e sfida 
-
 – 14:00 - 15:00: 👂🖐️Presentazione delle idee
-
 
 Giorno 3: mercoledì 26
 08:30 - 15:00: 🖐️Lavoro autonomo 
