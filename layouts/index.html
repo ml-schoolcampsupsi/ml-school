@@ -34,9 +34,15 @@
       {{ end }} -->
 
       <!-- video parameter -->
-      {{ with .Params.videoSrc }}        
+      <!-- {{ with .Params.videoSrc }}        
       <video controls src="media/ford.mp4"></video>
+      {{ end }} -->
+
+      <!-- image parameter -->
+      {{ with .Params.heroImg }}        
+        <img src={{.}} alt="hero image" class="hero">        
       {{ end }}
+
 
       <!-- .md file content -->
       {{ .Content }}

@@ -3,7 +3,7 @@ title: "ML"
 date: 2019-05-29T22:29:56+01:00
 pageTitle: Machine Learning @School Camp
 videoLink: "https://www.youtube.com/embed/E8jHwinJRyQ"
-videoSrc: "ford.mp4"
+heroImg: "media/hero.jpg"
 ---
 
 Machine Learning @School Camp è un corso pratico sui concetti e le tecnologie di Machine Larning indirizzato a studenti delle scuole professionali. Tramite l'utilizzo di risorse aperte, demo e strumenti interattivi, gli studenti fanno esperienza di un processo progettuale durante il quale acquisiscono delle competenze su come realizzare progetti digitali basati sul Machine Learning e su come ideare e prototipare velocemente delle soluzioni che hanno un impatto sulle vite delle persone.
