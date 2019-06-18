@@ -121,6 +121,11 @@ tr {
     border-bottom: 1px dotted #999;
     display: block;
     padding: 1px 0 4px 0;
+    transition: background 0.2s;
+}
+
+tr:hover{
+    background: #e6e6e6;
 }
 
 ul {
