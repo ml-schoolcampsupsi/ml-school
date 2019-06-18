@@ -56,8 +56,12 @@ a {
     margin-top: 4px;
 }
 
-h1,h2 {
+h1,h2,h3 {
     font-family: boldo;    
+}
+
+p,li, table {
+    font-family: corpo;    
 }
 
 h1 {
@@ -81,12 +85,45 @@ h2 {
     margin-bottom: 2px;
 }
 
-p {
-    font-family: corpo;
+h3 {
+    font-size: 18px;      
+    margin-bottom: 5px;
+}
+
+p {    
     display: block;
     width: 400px;
     font-size: 16px;
     line-height: 27px;
+    margin-bottom: 70px;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 1px;
+    font-size: 14px;
+}
+
+table {
+    font-size: 14px;
+    margin-bottom: 70px
+}
+
+td, th {
+    text-align: left;
+}
+
+td:first-child, th:first-child {
+    width: 110px
+}
+
+tr {
+    border-bottom: 1px dotted #999;
+    display: block;
+    padding: 1px 0 4px 0;
+}
+
+ul {
     margin-bottom: 70px;
 }
 
