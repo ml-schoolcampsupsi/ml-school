@@ -91,11 +91,9 @@ h3 {
 }
 
 p {    
-    display: block;
-    width: 400px;
+    display: block;    
     font-size: 16px;
-    line-height: 27px;
-    margin-bottom: 70px;
+    line-height: 27px;    
 }
 
 li {
@@ -105,8 +103,7 @@ li {
 }
 
 table {
-    font-size: 14px;
-    margin-bottom: 70px
+    font-size: 14px;    
 }
 
 td, th {
@@ -114,7 +111,7 @@ td, th {
 }
 
 td:first-child, th:first-child {
-    width: 110px
+    width: 110px;
 }
 
 tr {
@@ -184,6 +181,14 @@ footer a {
     background-size: 100% 100%;
 }
 
+.wavy-mobile {
+    background: url(media/green-zig.png);
+    height: 10px;
+    width: 165px;
+    margin-top: 20px;
+    background-size: 100% 100%;
+}
+
 .container {
     position: relative;    
     z-index: 1;    
@@ -222,6 +227,14 @@ footer a {
 /* MOBILE */
 @media only screen and (max-width: 700px) {
 
+    p, table {
+        margin-bottom: 40px;
+    }
+
+    p {
+        width: 100%;        
+    }
+
     .topbg {
         display: none;
     }
@@ -244,6 +257,18 @@ footer a {
 
 /* NOT MOBILE */
 @media only screen and (min-width: 701px) {
+
+    p, table {
+        margin-bottom: 70px;
+    }
+
+    p {
+        width: 400px;        
+    }
+
+    .wavy-mobile {
+        display: none;
+    }
 
     .title .text {
         width: 56%;
