@@ -26,7 +26,7 @@ Coordinamento: Serena Cangiano, SUPSI Maind/FabLab.
 Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Trevano - Sezione Informatica e IDSIA Instituto dalle Molle per l’Intelligenza Artificiale. 
 
 ## Con il supporto di
-Gebert Rüf Stiftung
+Gebert Rüf Stiftung. 
 www.grstiftung.ch
 
 
