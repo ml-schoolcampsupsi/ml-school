@@ -13,6 +13,15 @@ Machine Learning @School Camp è un corso pratico sui concetti e le tecnologie d
 24 ⟶ 27 giugno 2019 <br>
 presso il FabLab SUPSI, Campus Trevano
 
+## Il programma
+Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning. 
+[Vai al programma.](posts/programma)
+
+## I tutor
+Tutor principale: Lorenzo Romagnoli (SUPSI Maind)
+Altri tutor: Alessandro Giusti (IDSIA istituto Dalle Molle di studi sull'intelligenza artificiale); William Peretti, Massimo Sartori, Guido Montalbetti e Ugo Bernasconi (SAM Trevano).
+Coordinamento: Serena Cangiano, SUPSI Maind/FabLab.  
+
 ## Ideato e promosso da
 Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Trevano - Sezione Informatica e IDSIA Instituto dalle Molle per l’Intelligenza Artificiale. 
 
@@ -20,14 +29,8 @@ Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Tre
 Gebert Rüf Stiftung
 www.grstiftung.ch
 
-## I tutor
-Tutor principale: Lorenzo Romagnoli (SUPSI Maind)
-Altri tutor: Alessandro Giusti (IDSIA istituto Dalle Molle di studi sull'intelligenza artificiale); William Peretti, Massimo Sartori, Guido Montalbetti e Ugo Bernasconi (SAM Trevano).
-Coordinamento: Serena Cangiano, SUPSI Maind/FabLab.  
 
-## Il programma
-Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning. 
-[Vai al programma](posts/programma) 
+
 
 
 
