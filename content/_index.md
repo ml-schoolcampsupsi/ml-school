@@ -25,9 +25,7 @@ www.grstiftung.ch
 
 ## I tutor
 Tutor principale: Lorenzo Romagnoli (SUPSI Maind)
- 
 Altri tutor: Alessandro Giusti (IDSIA istituto Dalle Molle di studi sull'intelligenza artificiale); William Peretti, Massimo Sartori, Guido Montalbetti e Ugo Bernasconi (SAM Trevano).
-
 Coordinamento: Serena Cangiano, SUPSI Maind/FabLab. 
 
 ## Il programma
