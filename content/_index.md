@@ -2,7 +2,7 @@
 title: "Machine Learning @ School Camp"
 date: 2019-05-29T22:29:56+01:00
 pageTitle: Machine Learning @School Camp
-videoLink: "https://www.youtube.com/embed/E8jHwinJRyQ"
+videoLink: "https://youtu.be/Ib9-2Od1JH4"
 heroImg: "media/hero.jpg"
 ---
 
