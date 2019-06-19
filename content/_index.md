@@ -6,9 +6,6 @@ videoLink: "https://youtu.be/Ib9-2Od1JH4"
 heroImg: "media/hero.jpg"
 ---
 
-[link esempio alla pagina "Programma"](posts/programma) 
-
-[link esempio alla pagina "Risorse"](posts/risorse) 
 
 Machine Learning @School Camp è un corso pratico sui concetti e le tecnologie di Machine Larning indirizzato a studenti delle scuole professionali. Tramite l'utilizzo di risorse aperte, demo e strumenti interattivi, gli studenti fanno esperienza di un processo progettuale durante il quale acquisiscono delle competenze su come realizzare progetti digitali basati sul Machine Learning e su come ideare e prototipare velocemente delle soluzioni che hanno un impatto sulle vite delle persone.
 
@@ -29,7 +26,8 @@ Altri tutor: Alessandro Giusti (IDSIA istituto Dalle Molle di studi sull'intelli
 Coordinamento: Serena Cangiano, SUPSI Maind/FabLab. 
 
 ## Il programma
-Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning.
+Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning. 
+[Vai al programma](posts/programma) 
 
 <!-- ☁️⬇️ -->
 <!-- se vuoi la nuvoletta nel link copia questo html snippet
