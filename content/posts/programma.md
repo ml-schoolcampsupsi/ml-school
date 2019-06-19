@@ -35,8 +35,8 @@ date: 2019-05-29T22:28:30+01:00
 ### Giorno 4 · Giovedì 27
 
 | 08:30 - 11:00: | 🖐️Debuggiamo i progetti insieme |
-| 11:00 - 12:00: | 🖐️Preparazione delle demo dei progetti |
 | -------------- | ----------------- |
+| 11:00 - 12:00: | 🖐️Preparazione delle demo dei progetti |
 | 13:00 - 14:00: | 🎭SHOW |
 
 

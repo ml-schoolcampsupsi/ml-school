@@ -3,7 +3,7 @@ title: "Machine Learning @ School Camp"
 date: 2019-05-29T22:29:56+01:00
 pageTitle: Machine Learning @School Camp
 videoLink: "https://youtu.be/Ib9-2Od1JH4"
-heroImg: "media/hero.jpg"
+heroImg: "media/rps.gif"
 ---
 
 
@@ -24,10 +24,6 @@ Coordinamento: Serena Cangiano, SUPSI Maind/FabLab.
 
 ## Ideato e promosso da
 Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Trevano - Sezione Informatica e IDSIA Instituto dalle Molle per l’Intelligenza Artificiale. 
-
-## Con il supporto di
-Gebert Rüf Stiftung. 
-www.grstiftung.ch
 
 
 

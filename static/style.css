@@ -119,10 +119,11 @@ tr {
     display: block;
     padding: 1px 0 4px 0;
     transition: background 0.2s;
+    transform: rotate(0deg);    
 }
 
 tr:hover{
-    background: #e6e6e6;
+    /* background: #e6e6e6; */
 }
 
 ul {
@@ -151,10 +152,15 @@ footer p {
     width: 100%;
     text-align: center;    
     margin: 27px 0px;
+    line-height: 36px;
 }
 
 footer a {
     color: #F5F5F5;
+}
+
+.purple {
+    border-bottom: 2px solid #00FFD4;
 }
 
 .hero {

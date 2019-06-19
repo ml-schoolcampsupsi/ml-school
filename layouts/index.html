@@ -6,11 +6,12 @@
 >
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{ .Params.title }}</title>
     <link rel="canonical" href="{{ .Permalink }}" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}style.css" />
+    <link rel="icon" type="image/png" href="media/favicon.png" />
 </head>
 <body>
     
@@ -50,16 +51,14 @@
     </div>    
     <footer>        
       <p>     
-          © SUPSI <script>document.write(new Date().getFullYear())</script> ·           
-          <a href="mailto:serena.cangiano@supsi.ch">contatti</a>
+          © <script>document.write(new Date().getFullYear())</script> · 
+          <a href="http://www.supsi.ch">SUPSI</a> / Con il supporto di           
+          <a href="www.grstiftung.ch">Gebert Rüf Stiftung.</a><br>
+          <a class="purple" href="mailto:serena.cangiano@supsi.ch">Contatti</a>
       </p>      
     </footer>  
 
     <!-- scripts -->
-    <script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
     <script src="{{ .Site.BaseURL }}script.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
