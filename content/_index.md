@@ -24,10 +24,10 @@ Gebert Rüf Stiftung
 www.grstiftung.ch
 
 ## I tutor
-Tutor principale: Lorenzo Romagnoli, SUPSI Maind
-Altri tutor: Alessandro Giusti, IDSIA istituto Dalle Molle di studi sull'intelligenza artificiale,
-Insegnanti SAM Trevano: William Peretti, Massimo Sartori, Guido Montalbetti e Ugo Bernasconi
-Coordinamento: Serena Cangiano, SUPSI Maind/FabLab 
+Tutor principale: Lorenzo Romagnoli, SUPSI Maind. 
+Altri tutor: Alessandro Giusti, IDSIA istituto Dalle Molle di studi sull'intelligenza artificiale. 
+Insegnanti SAM Trevano: William Peretti, Massimo Sartori, Guido Montalbetti e Ugo Bernasconi. 
+Coordinamento: Serena Cangiano, SUPSI Maind/FabLab. 
 
 ## Il programma
 Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning.
