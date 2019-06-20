@@ -119,10 +119,11 @@ tr {
     display: block;
     padding: 1px 0 4px 0;
     transition: background 0.2s;
+    transform: rotate(0deg);    
 }
 
 tr:hover{
-    background: #e6e6e6;
+    /* background: #e6e6e6; */
 }
 
 ul {
@@ -141,8 +142,7 @@ video {
 
 footer {
     position: absolute;
-    /* bottom: 0; */
-    width: 100%;
+    /* bottom: 0; */    
     background: black;    
 }
 
@@ -151,10 +151,15 @@ footer p {
     width: 100%;
     text-align: center;    
     margin: 27px 0px;
+    line-height: 36px;
 }
 
 footer a {
     color: #F5F5F5;
+}
+
+.purple {
+    border-bottom: 2px solid #00FFD4;
 }
 
 .hero {
@@ -222,8 +227,6 @@ footer a {
     margin-left: 187px;
 }
 
-
-
 /* MOBILE */
 @media only screen and (max-width: 700px) {
 
@@ -233,6 +236,10 @@ footer a {
 
     p {
         width: 100%;        
+    }
+
+    footer {
+        width: 70%;
     }
 
     .topbg {
@@ -264,6 +271,10 @@ footer a {
 
     p {
         width: 400px;        
+    }
+
+    footer {
+        width: 100%;
     }
 
     .wavy-mobile {
