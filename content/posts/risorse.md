@@ -58,7 +58,7 @@ In questo tutorial pratico di ml5.js si ricostruisce un programma che funziona i
 - **RISORSE**
 - 👨‍💻 [**EXAMPLE 2** - Transfer learning classification: training with webcam images](https://editor.p5js.org/10r3n20/sketches/786J5eA6j)
 
-### 7) Transfer learning - Regression  (30m)
+### 8) Transfer learning - Regression  (30m)
 In questo tutorial pratico di ml5.js si modifica il programma generato prima e viene utlizzato stavolta un'algoritmo di regression.
 - 👨‍💻 [**EXAMPLE 3** - Transfer learning regression](https://editor.p5js.org/10r3n20/sketches/Ij0noQGNB)
 - 👨‍💻 [**EXAMPLE 4** - Transfer learning regression + audio](https://editor.p5js.org/10r3n20/sketches/XwkYWe3gA)
