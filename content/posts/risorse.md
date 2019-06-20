@@ -52,8 +52,13 @@ L'obbiettivo di questa attività è utilizzare lo stesso modello di image classi
 - **RISORSE**
 - 👨‍💻 [**EXAMPLE 1** - Continuos image classification of webcam images](https://editor.p5js.org/10r3n20/sketches/ZtigL9CSe)
 
-### 7) Teachable machine con ml5.js  (1.30h)
+### 7)Riprogrammiamo Teachable machine con ml5.js  (1.30h)
 In questo tutorial pratico di ml5.js si ricostruisce un programma che funziona in maniera molto simile alla demo di Teachable machine mostrata in precedenza. Per ottenere il risultato viene introdotto il concetto di transfer learning (una tecnica di machine learning dove si utilizza un modello sviluppato per un certo task come punto di partenza per costruire un nuovo modello serve un diverso scopo.)
 
 - **RISORSE**
-- 👨‍💻 [**EXAMPLE 2** - Transfer learning: training with webcam images](https://editor.p5js.org/10r3n20/sketches/786J5eA6j)
+- 👨‍💻 [**EXAMPLE 2** - Transfer learning classification: training with webcam images](https://editor.p5js.org/10r3n20/sketches/786J5eA6j)
+
+### 7) Transfer learning - Regression  (30m)
+In questo tutorial pratico di ml5.js si modifica il programma generato prima e viene utlizzato stavolta un'algoritmo di regression.
+- 👨‍💻 [**EXAMPLE 3** - Transfer learning regression](https://editor.p5js.org/10r3n20/sketches/Ij0noQGNB)
+- 👨‍💻 [**EXAMPLE 4** - Transfer learning regression + audio](https://editor.p5js.org/10r3n20/sketches/XwkYWe3gA)
