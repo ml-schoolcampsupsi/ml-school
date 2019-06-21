@@ -23,7 +23,7 @@ Altri tutor: Alessandro Giusti (IDSIA istituto Dalle Molle di studi sull'intelli
 Coordinamento: Serena Cangiano, SUPSI Maind/FabLab.  
 
 ## Ideato e promosso da
-Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Trevano - Sezione Informatica e IDSIA Instituto dalle Molle per l’Intelligenza Artificiale. 
+Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Trevano - Sezione Informatica e IDSIA Istituto dalle Molle per l’Intelligenza Artificiale. 
 
 
 
