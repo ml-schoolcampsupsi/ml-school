@@ -14,7 +14,7 @@ Machine Learning @School Camp è un corso pratico sui concetti e le tecnologie d
 presso il FabLab SUPSI, Campus Trevano
 
 ## Il programma
-Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning. 
+Il camp dura quattro giorni e combina lezioni teoriche e attività pratiche finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning. 
 [Vai al programma.](posts/programma)
 
 ## I tutor
