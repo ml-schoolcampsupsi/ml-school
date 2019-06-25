@@ -71,3 +71,4 @@ In questo tutorial pratico utilizzeremo un software che ci permette di controlla
 - **RISORSE**
 - 👨‍💻 [**TOOL** - mqtt_to_keyboard](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
 - 👨‍💻 ‍[**EXAMPLE 5** - send keyboard commands over mqtt](https://editor.p5js.org/10r3n20/sketches/SyoYaCrjQ)
+- 👨‍💻 ‍[**EXAMPLE 6** - webcam classifier + send keyboard](https://editor.p5js.org/10r3n20/sketches/3CMu2RwLK)
