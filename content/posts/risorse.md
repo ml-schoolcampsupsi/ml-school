@@ -60,5 +60,14 @@ In questo tutorial pratico di ml5.js si ricostruisce un programma che funziona i
 
 ### 8) Transfer learning - Regression  (30m)
 In questo tutorial pratico di ml5.js si modifica il programma generato prima e viene utlizzato stavolta un'algoritmo di regression.
+
+- **RISORSE**
 - 👨‍💻 [**EXAMPLE 3** - Transfer learning regression](https://editor.p5js.org/10r3n20/sketches/Ij0noQGNB)
 - 👨‍💻 [**EXAMPLE 4** - Transfer learning regression + audio](https://editor.p5js.org/10r3n20/sketches/XwkYWe3gA)
+
+### 9) Hack the keyboard  (30m)
+In questo tutorial pratico utilizzeremo un software che ci permette di controllare la tastiera del computer da remoto via MQTT.
+
+- **RISORSE**
+- 👨‍💻 [**TOOL** - mqtt_to_keyboard](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
+- 👨‍💻 ‍[**EXAMPLE 5** - send keyboard commands over mqtt](https://editor.p5js.org/10r3n20/sketches/SyoYaCrjQ)
