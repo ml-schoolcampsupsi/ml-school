@@ -3,7 +3,7 @@ title: "Risorse"
 date: 2019-05-29T22:28:30+01:00
 ---
 
-# Open instructable: le attività del ml@school camp?
+# Open instructable: le attività del ml@school camp
 
 ### 1) Benvenuto (15 minuti)
 Gli studenti si presentano e i tutor raccontano gli obiettivi del camp e il programma dettagliato del camp. 
@@ -51,22 +51,27 @@ L'obiettivo di questa attività è utilizzare lo stesso modello di classificazio
 - 👨‍💻 [**ESEMPIO 1** - classificazione continua di immagini di una webcam](https://editor.p5js.org/10r3n20/sketches/ZtigL9CSe)
 
 ### 7)Riprogrammiamo Teachable Machine di Google con ml5.js  (1.30 ore)
-In questa sessione guidata si utilizza un tutorial di ml5.js per programmare un'applicazione che funziona in maniera molto simile alla demo di Teachable Machines di Google (vedi attività 3). Per sviluppare quest'applicazione si introduce il concetto di Transfer Learning (una tecnica di Mchine Learning che prevede l'utilizzo di un modello sviluppato per un certo task come punto di partenza per costruire un nuovo modello serve un diverso scopo.)
+In questa sessione guidata si utilizza un tutorial di ml5.js per programmare un'applicazione che funziona in maniera molto simile alla demo di Teachable Machines di Google (vedi attività 3). Per sviluppare quest'applicazione si introduce il concetto di Transfer Learning, una tecnica di Machine Learning che prevede l'utilizzo di un modello sviluppato per un certo assolvere un certo compito come punto di partenza per definire un nuovo modello che serve uno  scopo diverso (es. QUA LORE SCRIVI ESEMPIO).
 
 - **RISORSE**
-- 👨‍💻 [**EXAMPLE 2** - Transfer learning classification: training with webcam images](https://editor.p5js.org/10r3n20/sketches/786J5eA6j)
+- 👨‍💻 [**ESEMPIO 2** - Classificazione Transfer Learning: addrestramento con le immagini di una webcam](https://editor.p5js.org/10r3n20/sketches/786J5eA6j)
 
-### 8) Transfer learning - Regression  (30m)
-In questo tutorial pratico di ml5.js si modifica il programma generato prima e viene utlizzato stavolta un'algoritmo di regression.
-
-- **RISORSE**
-- 👨‍💻 [**EXAMPLE 3** - Transfer learning regression](https://editor.p5js.org/10r3n20/sketches/Ij0noQGNB)
-- 👨‍💻 [**EXAMPLE 4** - Transfer learning regression + audio](https://editor.p5js.org/10r3n20/sketches/XwkYWe3gA)
-
-### 9) Hack the keyboard  (30m)
-In questo tutorial pratico utilizzeremo un software che ci permette di controllare la tastiera del computer da remoto via MQTT.
+### 8) Transfer learning - Regression (30 minuti)
+In questa sessione si utilizza un tutorial pratico di ml5.js in cui l'applicazione sviluppata nella sessione precedente viene modificata tramite l'utilizzo di un'algoritmo di Regression, ovvero (LORE SCRIVI QUI UNa spiegazione comprensibile con esempio)
 
 - **RISORSE**
-- 👨‍💻 [**TOOL** - mqtt_to_keyboard](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
-- 👨‍💻 ‍[**EXAMPLE 5** - send keyboard commands over mqtt](https://editor.p5js.org/10r3n20/sketches/SyoYaCrjQ)
-- 👨‍💻 ‍[**EXAMPLE 6** - webcam classifier + send keyboard](https://editor.p5js.org/10r3n20/sketches/3CMu2RwLK)
+- 👨‍💻 [**ESEMPIO 3** - Transfer Learning Regression](https://editor.p5js.org/10r3n20/sketches/Ij0noQGNB)
+- 👨‍💻 [**ESEMPIO 4** - Transfer Learning Regression + audio](https://editor.p5js.org/10r3n20/sketches/XwkYWe3gA)
+
+### 9) Hack the keyboard  (30 minuti)
+Al fine di realizzare il progetto di controller per videogiochi basato su ML, in questa sessione si spiega l'utilzzo di un software esterno che permette di controllare la tastiera del computer da remoto via [mqtt](https://github.com/alessandro-giusti/rock-paper-scissors), un protocollo di connettività machine-to-machine utilizzato in ambito IoT.
+
+- **RISORSE**
+- 👨‍💻 [**STRUMENTO** - da mqtt_alla_tastiera](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
+- 👨‍💻 ‍[**ESEMPIO 5** - inviare comandi della tastiera attraverso mqtt](https://editor.p5js.org/10r3n20/sketches/SyoYaCrjQ)
+- 👨‍💻 ‍[**ESEMPIO 6** - classificatore webcam  + invio alla keyboard](https://editor.p5js.org/10r3n20/sketches/3CMu2RwLK)
+
+### 10) Sketch&Pitch  (1 ora)
+In questa sessione si chiede agli studenti di ideare delle possibili applicazioni di controller per videogiochi considerando le opportunità tecnologiche esplorate durante le sessioni pratiche con il codice. Durante la sessione si seleziona il videogioco da un catalogo online (lore link al catalogo) o si chiede agli studenti di selezionare il loro videogioco preferito. L'obiettivo della sessione e lavorare in gruppo per definire il funzionamento del controller rispetto alla logica del videogioco selezionato e gli elementi dell'interfaccia del progetto finale. Per stimolare la creatività e lo sviluppo di competenze creative e di comunicazione si chiede agli studenti di disegnare il progetto su dei fogli di carta e di presentarli alla classe in pochi minuti.
+
+
