@@ -74,4 +74,8 @@ Al fine di realizzare il progetto di controller per videogiochi basato su ML, in
 ### 10) Sketch&Pitch  (1 ora)
 In questa sessione si chiede agli studenti di ideare delle possibili applicazioni di controller per videogiochi considerando le opportunità tecnologiche esplorate durante le sessioni pratiche con il codice. Durante la sessione si seleziona il videogioco da un catalogo online (lore link al catalogo) o si chiede agli studenti di selezionare il loro videogioco preferito. L'obiettivo della sessione e lavorare in gruppo per definire il funzionamento del controller rispetto alla logica del videogioco selezionato e gli elementi dell'interfaccia del progetto finale. Per stimolare la creatività e lo sviluppo di competenze creative e di comunicazione si chiede agli studenti di disegnare il progetto su dei fogli di carta e di presentarli alla classe in pochi minuti.
 
+### 11) Lavoro indipendente di gruppo (4 ore non in classe)
 
+
+### 12) Presentazione e mostra dei progetti (1 ora)
+Comunicare un progetto interattivo basato su Machine Learning è una competenza fondamentale per portare un prototipo a livello di un progetto che potrebbe avere un riscontro sul mercato e trasfromare l'idea in una futura impresa digitale. In questa sessione si chiede agli studenti di preparare l'aula per la mostra finale dei progetti. Ogni gruppo presenta il prototipo funzionante alla classe e condivide le difficoltà e il modo in cui sono stati risolte dal punto di vista tecnico. Questa presentazione aiuta a trasferire c
