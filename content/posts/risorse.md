@@ -3,16 +3,15 @@ title: "Risorse"
 date: 2019-05-29T22:28:30+01:00
 ---
 
-# Cosa si fa al ml@scholl camp?
+# Open instructable: le attività del ml@school camp?
 
-### 1) Benvenuti (15 minutes)
-Gli studenti vengono accolti al camp, i docenti si presentano e raccontano gli obiettivi del camp e cosa si farà nei prossimi 4 giorni.
+### 1) Benvenuto (15 minuti)
+Gli studenti si presentano e i tutor raccontano gli obiettivi del camp e il programma dettagliato del camp. 
 
-### 2) Machine Learning WHAT, HOW, WHY (45 minutes)
-La prima ora del camp è dedicata a spiegare che cosa si può fare con il machine learning.
-Si inizia raccontando quando e perché le tecnologie di machine learning sono utili.
-Dopodichè vengono mostrati e raccontati vari progetti che utilizzano algoritmi di intelligenza artificiale, sia nel mondo industriale e scientifico, ma anche in campi più sperimentali come quello dell’arte e del design.
-In fine si discutono varie strategie di machine learning e quando queste possono essere usate.
+### 2) Introduzione al Machine Learning COSA, COME, PERCHÉ (45 minuti)
+Cosa si intende per Machine Learning? Un po' di teoria per presentare cosa si può fare con questa nuova tecnologia.
+Il Machine Learning si trova in molti strumenti digitali della nostra vita quotidiana: i tutor spiegano quando e perché le tecnologie di ML sono utili e presentano diversi progetti che utilizzano algoritmi di intelligenza artificiale, sia nel mondo industriale e scientifico, ma anche in campi più sperimentali come quello dell’arte e del design.
+L'introduzione prevede un momento di discussione sulle diverse strategie di Machine Learning e quando queste possono essere usate.
 
 - **RISORSE**
 - 📖 [[SLIDES]](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
