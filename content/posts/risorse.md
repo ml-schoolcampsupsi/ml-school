@@ -16,43 +16,42 @@ L'introduzione prevede un momento di discussione sulle diverse strategie di Mach
 - **RISORSE**
 - 📖 [[SLIDES]](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
 
-### 3) Alleniamo la macchina
-[Teachable machine](https://teachablemachine.withgoogle.com/) (macchine a cui si può insegnare), è una pagina web che permette di familiarizzare con uno dei concept fondamentali legato al machine learning “teaching”.
-Gli studenti saranno richiesti di allenare la macchina a riconoscere diverse immagini fornite attraverso la webcam. Ad ogni "classe" di immagini gli studenti associeranno un suono. Al termine dell'attività gli studenti suoneranno tutti insieme controllando i suoni attraverso la webcam.
+### 3) Addrestriamo la macchina
+[Teachable machine](https://teachablemachine.withgoogle.com/) (macchine a cui si può insegnare), è una pagina web che permette di familiarizzare con uno dei concetti fondamentali dell'addresramento di reti neurali, il machine learning “teaching”.
+Si chiede agli studenti di addrestrare la macchina a riconoscere diverse immagini fornite attraverso la webcam. Ad ogni "classe" di immagini gli studenti associeranno un suono. Al termine dell'attività gli studenti suoneranno tutti insieme controllando i suoni attraverso la webcam.
 
 - **RISORSE**
-- 🌐 [[TEACHABLE MACHINE]](https://teachablemachine.withgoogle.com/)
+- 🌐 [[TEACHABLE MACHINE by GOOGLE]](https://teachablemachine.withgoogle.com/)
 
-### 4) Introduzione a ml5.js (1h)
-[p5.js](https://p5js.org/) [ml5.js](https://ml5js.org/) sono i due principali strumenti che verranno utilizzati durante il workshop.
-Durante la prima ora di workshop pratico gli studenti configurano i tools sui loro computer e apprendono come impostare un progetto base di ml5js utilizzando il [web editor di p5.js ](https://editor.p5js.org).
-Il primo codice di esempio guida gli studenti ad utilizzare ml5.js per analizzare il contenuto di immagini.
+### 4) Introduzione a ml5.js (1 ora)
+[p5.js](https://p5js.org/) [ml5.js](https://ml5js.org/) sono i due principali strumenti del camp. Ml5.js è una libreria che permette di accedere ad algoritmi e modelli di Machine Learning tramite il browser sulla base di TensorFlow.js e senza altre dipendenze. P5.js è una libreria Javascript per realizzare esperienze grafiche e interattive sulla base dei principi chiave dell'ambiente di programmazione [[Processing]](https://processing.org).
+Questa sessione punta a configurare questi strumenti sui computer degli studenti e a trasferire loro l'impostazione di un progetto di base utilizzando il [web editor di p5.js ](https://editor.p5js.org).
+Il primo codice di esempio guida gli studenti all'utilizzo di  ml5.js per l'analisi del contenuto di immagini.
 
 - **RISORSE**
 - 📖 [p5.js reference page](https://p5js.org/reference)
 - 📖 [ml5js.js reference page](https://ml5js.org/reference/)
 - 🌐 [p5.js web editor](https://editor.p5js.org)
-- 👨‍💻 [**EXAMPLE 0** - image classification with ml5.js](https://editor.p5js.org/10r3n20/sketches/tOXHdAv01)
+- 👨‍💻 [**ESEMPIO 0** - classificazione di immagini con ml5.js](https://editor.p5js.org/10r3n20/sketches/tOXHdAv01)
 
-### 5) Carta forbice sasso (2h)
-Una volta appreso attraverso la prima demo di p5.js come utilizzare un modello trainato per riconoscere delle immagini.
-Alessandro Giusti (IDSIA, USI-SUPSI) guiderò l'attività didattica chiamata carta forbice sasso, che potrerà gli studenti a partecipare al processo di creazione e training di un modello.
-L'attività interattiva guidata proposta, introdurrà gli studenti al concetto di "supervized learning by training a deep neural network to classify hand gestures".
-L'attività coprirà importanti concetti come: "training/evaluation split", classifier evaluation, baseline accuarcy, overfitting, generalization, data augmentation.
+### 5) Demo: carta, forbice, sasso (2 ore)
+Dopo aver imparato come si utilizza un modello addestrato per riconoscere delle immagini, si presenta una demo interattiva che spiega il funzionamento e il processo di creazione di un modello di training.
+L'attività interattiva guidata introduce gli studenti al concetto di "supervised learning" per addestrare un deep neural network a classificare dei gesti. la demo interattiva introduce a concetti fondamentali come training/evaluation split, classifier evaluation, baseline accuarcy, overfitting, generalization, data augmentation.
+L'attività consiste nella raccolta di immagini di mani che eseguono i gesti del gioco carta-forbice-sasso secondo gli standard che permettono ad una rete neurale di apprendere la differenza tra i diversi gesti. 
 
 - **RISORSE**
 - 📖 [descrizione dell'attività](https://github.com/alessandro-giusti/rock-paper-scissors/blob/master/EAAI%20Paper.pdf)
 - 👨‍💻 [codice utilizzato](https://github.com/alessandro-giusti/rock-paper-scissors)
 
-### 6) Classificazione continua di immagini via webcam (30m)
-Continuano i tutorial pratici di ml5.js
-L'obbiettivo di questa attività è utilizzare lo stesso modello di image classification, non su una singola foto ma sui frames del video proveniente dalla webcam.
+### 6) Classificazione continua di immagini via webcam (30 minuti)
+Questa sessione propone una serie di attività pratiche che utilizzano i tutorial di base di ml5.js
+L'obiettivo di questa attività è utilizzare lo stesso modello di classificazione delle immagini non su una singola foto, ma sui frame del video proveniente da una webcam.
 
 - **RISORSE**
-- 👨‍💻 [**EXAMPLE 1** - Continuos image classification of webcam images](https://editor.p5js.org/10r3n20/sketches/ZtigL9CSe)
+- 👨‍💻 [**ESEMPIO 1** - classificazione continua di immagini di una webcam](https://editor.p5js.org/10r3n20/sketches/ZtigL9CSe)
 
-### 7)Riprogrammiamo Teachable machine con ml5.js  (1.30h)
-In questo tutorial pratico di ml5.js si ricostruisce un programma che funziona in maniera molto simile alla demo di Teachable machine mostrata in precedenza. Per ottenere il risultato viene introdotto il concetto di transfer learning (una tecnica di machine learning dove si utilizza un modello sviluppato per un certo task come punto di partenza per costruire un nuovo modello serve un diverso scopo.)
+### 7)Riprogrammiamo Teachable Machine di Google con ml5.js  (1.30 ore)
+In questa sessione guidata si utilizza un tutorial di ml5.js per programmare un'applicazione che funziona in maniera molto simile alla demo di Teachable Machines di Google (vedi attività 3). Per sviluppare quest'applicazione si introduce il concetto di Transfer Learning (una tecnica di Mchine Learning che prevede l'utilizzo di un modello sviluppato per un certo task come punto di partenza per costruire un nuovo modello serve un diverso scopo.)
 
 - **RISORSE**
 - 👨‍💻 [**EXAMPLE 2** - Transfer learning classification: training with webcam images](https://editor.p5js.org/10r3n20/sketches/786J5eA6j)
