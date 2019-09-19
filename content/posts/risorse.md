@@ -78,4 +78,12 @@ In questa sessione si chiede agli studenti di ideare delle possibili applicazion
 Al fine di realizzare i prototipi funzionanti dei controller, gli studenti lavorano in gruppo e in maniera autonoma allo sviluppo del codice e al training dell'algoritmo di riconoscimento dei gesti.
 
 ### 12) Presentazione e mostra dei progetti (1 ora)
-Comunicare un progetto interattivo basato su Machine Learning è una competenza fondamentale per portare un prototipo a livello di un progetto che potrebbe avere un riscontro sul mercato e trasfromare l'idea in una futura impresa digitale. In questa sessione si chiede agli studenti di preparare l'aula per la mostra finale dei progetti. Ogni gruppo presenta il prototipo funzionante alla classe e condivide le difficoltà e il modo in cui sono stati risolte dal punto di vista tecnico. Questa presentazione aiuta a trasferire c
+Saper comunicare un progetto tecnologico e interattivo che usa Machine Learning è una competenza fondamentale per portare un'idea al livello di un progetto imprenditoriale che potrebbe avere un futuro riscontro sul mercato. Per questo motivo, in questa sessione finale si chiede agli studenti di presentare il prototipo funzionante alla classe e di condividere le difficoltà e il modo in cui sono state risolte dal punto di vista tecnico e progettuale. Questa presentazione aiuta a trasferire i saperi e le competenze acquisite in maniera peer-to-peer.
+
+### 13) Consegna del certificato di partecipazione
+Il camp si conclude con la consegna dei certificati di partecipazione. Non si dà un voto, ma si premiano tutti gli studenti per la loro partecipazione.
+
+- **RISORSE**
+- 👨‍💻 [**CERTIFICATO**](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
+
+
