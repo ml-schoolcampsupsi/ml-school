@@ -8,7 +8,7 @@ date: 2019-05-29T22:28:30+01:00
 ### 1) Benvenuto (15 minuti)
 Gli studenti si presentano e i tutor raccontano gli obiettivi del camp e il programma dettagliato del camp. 
 
-### 2) Introduzione al Machine Learning COSA, COME, PERCHÉ (45 minuti)
+### 2) Introduzione al Machine Learning: cosa, come, perché (45 minuti)
 Cosa si intende per Machine Learning? Un po' di teoria per presentare cosa si può fare con questa nuova tecnologia.
 Il Machine Learning si trova in molti strumenti digitali della nostra vita quotidiana: i tutor spiegano quando e perché le tecnologie di ML sono utili e presentano diversi progetti che utilizzano algoritmi di intelligenza artificiale, sia nel mondo industriale e scientifico, ma anche in campi più sperimentali come quello dell’arte e del design.
 L'introduzione prevede un momento di discussione sulle diverse strategie di Machine Learning e quando queste possono essere usate.
@@ -74,8 +74,8 @@ Al fine di realizzare il progetto di controller per videogiochi basato su ML, in
 ### 10) Sketch&Pitch  (1 ora)
 In questa sessione si chiede agli studenti di ideare delle possibili applicazioni di controller per videogiochi considerando le opportunità tecnologiche esplorate durante le sessioni pratiche con il codice. Durante la sessione si seleziona il videogioco da un catalogo online (lore link al catalogo) o si chiede agli studenti di selezionare il loro videogioco preferito. L'obiettivo della sessione e lavorare in gruppo per definire il funzionamento del controller rispetto alla logica del videogioco selezionato e gli elementi dell'interfaccia del progetto finale. Per stimolare la creatività e lo sviluppo di competenze creative e di comunicazione si chiede agli studenti di disegnare il progetto su dei fogli di carta e di presentarli alla classe in pochi minuti.
 
-### 11) Lavoro indipendente di gruppo (4 ore non in classe)
-
+### 11) Lavoro indipendente di gruppo (4 ore)
+Al fine di realizzare i prototipi funzionanti dei controller, gli studenti lavorano in gruppo e in maniera autonoma allo sviluppo del codice e al training dell'algoritmo di riconoscimento dei gesti.
 
 ### 12) Presentazione e mostra dei progetti (1 ora)
 Comunicare un progetto interattivo basato su Machine Learning è una competenza fondamentale per portare un prototipo a livello di un progetto che potrebbe avere un riscontro sul mercato e trasfromare l'idea in una futura impresa digitale. In questa sessione si chiede agli studenti di preparare l'aula per la mostra finale dei progetti. Ogni gruppo presenta il prototipo funzionante alla classe e condivide le difficoltà e il modo in cui sono stati risolte dal punto di vista tecnico. Questa presentazione aiuta a trasferire c
