@@ -3,8 +3,17 @@ title: "Risorse"
 date: 2019-05-29T22:28:30+01:00
 ---
 
-# Open instructable: le attività del ml@school camp
+# Open Instructable
+In questo Open Instructable sono documentate le attività del camp e le relative risorse. L'instructable punta ad essere una guida che abilita altri docenti delle scuole professionali ad organizzare il camp presso la loro scuola.
+La guida è disponibile in quattro lingue:
+- 📖 [[ITALIANO]](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
+- 📖 [[INGLESE]](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
+- 📖 [[FRANCESE]](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
+- 📖 [[TEDESCO]](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
 
+Se siete interessati a replicare il camp in un'altra scuola e avete domande, contattateci (emailto:serena.cangiano-at-supsi.ch) 
+
+# Attività
 ### 1) Benvenuto (15 minuti)
 Gli studenti si presentano e i tutor raccontano gli obiettivi del camp e il programma dettagliato del camp. 
 
