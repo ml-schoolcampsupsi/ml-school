@@ -127,8 +127,10 @@ tr:hover{
 }
 
 ul {
-    margin-bottom: 100px;
-		    margin-top: -30px;
+    margin-bottom: 70px;
+    margin-top: -50px;    
+    font-size: 15px;
+    line-height: 26px;    
 }
 
 iframe {
