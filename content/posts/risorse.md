@@ -10,7 +10,7 @@ La guida è disponibile in quattro lingue:
 - [🇮🇹 ITALIANO](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
 - [🇬🇧 ENGLISH](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
 - [🇫🇷 FRANÇAIS](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
-- [🇩🇪 DEUTSCHE](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
+- [🇩🇪 DEUTSCH](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
 
 Se siete interessati a replicare il camp in un'altra scuola e avete domande, contattateci: [serena.cangiano@supsi.ch](mailto:serena.cangiano@supsi.ch) 
 

@@ -5,6 +5,10 @@ pageTitle: Machine Learning @School Camp
 videoLink: "https://player.vimeo.com/video/358920139?color=B600FF&title=0&byline=0&portrait=0"
 ---
 
+> ["L'intelligenza artificiale nei progetti di 23 giovani ticinesi"](https://www.laregione.ch/rubriche/tecnologia/1377582/l-intelligenza-artificiale-nei-progetti-di-23-giovani-ticinesi)
+<!-- <br> -->
+<!-- ![La Regione logo](media/regione.png)  -->
+<!-- [Leggi il report de "La Regione"](https://www.laregione.ch/rubriche/tecnologia/1377582/l-intelligenza-artificiale-nei-progetti-di-23-giovani-ticinesi) -->
 
 Machine Learning @School Camp è un corso pratico sui concetti e le tecnologie di Machine Learning indirizzato a studenti delle scuole professionali. Tramite l'utilizzo di risorse aperte, demo e strumenti interattivi, gli studenti fanno esperienza di un processo progettuale durante il quale acquisiscono delle competenze su come realizzare progetti digitali basati sul Machine Learning e su come ideare e prototipare velocemente delle soluzioni che hanno un impatto sulle vite delle persone.
 
