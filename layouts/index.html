@@ -30,9 +30,12 @@
       {{ end }}      
 
       <!-- video parameter -->
-      <!-- {{ with .Params.videoLink }}        
-      <iframe src={{.}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-      {{ end }} -->
+      {{ with .Params.videoLink }}
+      <div class="embed-container">
+        <iframe src={{.}} frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>    
+      </div>  
+      <!-- <iframe src={{.}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>       -->
+      {{ end }}
 
       <!-- video parameter -->
       <!-- {{ with .Params.videoSrc }}        

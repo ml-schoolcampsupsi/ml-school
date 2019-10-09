@@ -133,9 +133,21 @@ ul {
     line-height: 26px;    
 }
 
-iframe {
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    overflow: hidden;
     margin-bottom: 35px;
+  }
+          
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
+    height: 100%;
 }
 
 video {
