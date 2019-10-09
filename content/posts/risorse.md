@@ -39,7 +39,7 @@ Il primo progetto di esempio guida gli studenti all'utilizzo di ml5.js per l'ana
 - 📖&nbsp;&nbsp;[p5.js reference page](https://p5js.org/reference)
 - 📖&nbsp;&nbsp;[ml5js.js reference page](https://ml5js.org/reference/)
 - 🌐&nbsp;&nbsp;[p5.js web editor](https://editor.p5js.org)
-- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 0** - classificazione di immagini con ml5.js](https://editor.p5js.org/10r3n20/sketches/tOXHdAv01)
+- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 0** - classificazione di immagini con ml5.js](https://editor.p5js.org/FabLabSUPSI/sketches/RKlh1CmFD)
 
 ### 5) Demo: carta, forbice, sasso (2 ore)
 Dopo aver imparato come si utilizza un modello addestrato per riconoscere delle immagini, si presenta una demo interattiva che spiega il funzionamento e il processo di creazione di un modello di training.
@@ -53,27 +53,27 @@ L'attività consiste nella raccolta di immagini di mani che eseguono i gesti del
 Questa sessione propone una serie di attività pratiche che utilizzano i tutorial di base di ml5.js
 L'obiettivo di questa attività è utilizzare lo stesso modello di classificazione delle immagini non su una singola foto, ma sui frame del video proveniente da una webcam.
 
-- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 1** - classificazione continua di immagini di una webcam](https://editor.p5js.org/10r3n20/sketches/ZtigL9CSe)
+- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 1** - classificazione continua di immagini di una webcam](https://editor.p5js.org/FabLabSUPSI/sketches/wrP1UGMdg)
 
 ### 7) Riprogrammiamo Teachable Machine di Google con ml5.js  (1.30 ore)
 In questa sessione guidata si utilizza un tutorial di ml5.js per programmare un'applicazione che funziona in maniera molto simile alla demo di Teachable Machines di Google (vedi attività 3). Per sviluppare quest'applicazione si introduce il concetto di Transfer Learning, una tecnica di Machine Learning che prevede l'utilizzo di un modello già sviluppato per una assolvere un certo compito come punto di partenza per la definizione di un nuovo modello che serve uno scopo diverso.
 Per esempio verrrà utilizzeremo un modello utilizzato per fare classificare delle immagini già addestrato su un dataset molto grande e generico, ma invece di utilizzarlo per ottenere le etichette che descrivono il contenuto dell'immagine, verranno estratti i dati grezzi che descrivono le qualità (features) di un'immagine e utilizzati come base per la definizione di un nuovo modello. 
 
-- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 2** - Classificazione Transfer Learning: addrestramento con le immagini di una webcam](https://editor.p5js.org/10r3n20/sketches/786J5eA6j)
+- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 2** - Classificazione Transfer Learning: addrestramento con le immagini di una webcam](https://editor.p5js.org/FabLabSUPSI/sketches/HpfHZZTMg)
 
 ### 8) Transfer learning - Regression (30 minuti)
 In questa sessione si utilizza un tutorial pratico di ml5.js in cui l'applicazione sviluppata nella sessione precedente viene modificata tramite l'utilizzo di un'algoritmo di regressione. 
 Nell'esempio precedente, ogni vota che veniva mostrata una nuova immagine alla webcam, l'algoritmo era programmato per restituire una classe, e la percentuale di compatibilità con i dati di addestramento utilizzati per la definizione della classe stessa. Tramite l'algoritmo di regressione possiamo invece chiedere al sistema di "immaginarsi" una transizione tra una certa classe ed un'altra. Possiamo dunque, per esempio addestrare la macchina a riconoscere la posizione (XY) senza dover addestrare l'algoritmo a riconoscere tutte le possibili posizioni della mano e le rispettive coordinate.  
 
-- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 3** - Transfer Learning Regression](https://editor.p5js.org/10r3n20/sketches/Ij0noQGNB)
-- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 4** - Transfer Learning Regression + audio](https://editor.p5js.org/10r3n20/sketches/XwkYWe3gA)
+- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 3** - Transfer Learning Regression](https://editor.p5js.org/FabLabSUPSI/sketches/T4Fr7Tjol)
+- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 4** - Transfer Learning Regression + audio](https://editor.p5js.org/FabLabSUPSI/sketches/SKMlcH5CH)
 
 ### 9) Hack the keyboard  (30 minuti)
 Al fine di realizzare il progetto di controller per videogiochi basato su ML, in questa sessione si spiega l'utilzzo di un software esterno che permette di controllare la tastiera del computer da remoto via [mqtt](https://en.wikipedia.org/wiki/MQTT), un protocollo di connettività machine-to-machine utilizzato in ambito IoT.
 
 - 👨‍💻&nbsp;&nbsp;[**STRUMENTO** - da mqtt_alla_tastiera](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
-- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 5** - inviare comandi della tastiera attraverso mqtt](https://editor.p5js.org/10r3n20/sketches/SyoYaCrjQ)
-- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 6** - classificatore webcam  + invio alla keyboard](https://editor.p5js.org/10r3n20/sketches/3CMu2RwLK)
+- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 5** - inviare comandi della tastiera attraverso mqtt](https://editor.p5js.org/FabLabSUPSI/sketches/FRdFDkcpS)
+- 👨‍💻&nbsp;&nbsp;[**ESEMPIO 6** - classificatore webcam  + invio alla keyboard](https://editor.p5js.org/FabLabSUPSI/sketches/4YPqKBVyJ)
 
 ### 10) Sketch&Pitch  (1 ora)
 In questa sessione si chiede agli studenti di ideare delle possibili applicazioni di controller per videogiochi considerando le opportunità tecnologiche esplorate durante le sessioni pratiche con il codice. Durante la sessione si seleziona il videogioco da un [catalogo online](https://archive.org/details/internetarcade) o si chiede agli studenti di selezionare il loro videogioco preferito. L'obiettivo della sessione e lavorare in gruppo per definire il funzionamento del controller rispetto alla logica del videogioco selezionato e gli elementi dell'interfaccia del progetto finale. Per stimolare la creatività e lo sviluppo di competenze creative e di comunicazione si chiede agli studenti di disegnare il progetto su dei fogli di carta e di presentarli alla classe in pochi minuti.
