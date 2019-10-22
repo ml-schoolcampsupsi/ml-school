@@ -29,6 +29,21 @@ time, mark, audio, video {
     src: url("fonts/corpo.otf")
 }
 
+@font-face {
+    font-family: "sughio";
+    src: url("fonts/sughio.ttf")
+}
+
+@font-face {
+    font-family: "snack";
+    src: url("fonts/usnack.woff")
+}
+
+@font-face {
+    font-family: "snackb";
+    src: url("fonts/snack.woff")
+}
+
 /* GLOBALS */
 body {
     background: #f5f5f5;
@@ -39,6 +54,11 @@ a {
     color: black;
     text-decoration: none;
     border-bottom: 2px solid #B600FF;
+}
+
+.highlight {
+    background-color: black;
+    color: #F5F5F5;
 }
 
 .cloud {
@@ -56,11 +76,15 @@ a {
     margin-top: 4px;
 }
 
-h1,h2,h3 {
+h1,h3 {
     font-family: boldo;
 }
 
-p,li, table {
+h2 {
+    font-family: snackb;
+}
+
+p,li, table, h5 {
     font-family: corpo;
 }
 
@@ -74,15 +98,58 @@ h1:after {
     content: "";
     display: inline-block;
     width: 45%;
-    border-top: 2px solid #00FFD4;
+    border-top: 2px solid #00FFD4;    
     margin-left: 4%;
     height: 13px;
 }
 
+
+.title .orange {
+    color: #B600FF;
+}
+
+.orange h2, .orange p {
+    border-color: #ffae00;
+}
+
+.orange h2 {
+    color: #ffae00;
+}
+
+.violet h2, .violet p {
+    border-color: #B600FF;
+}
+
+.violet h2 {
+    color: #B600FF;
+}
+
+.cyan h2, .cyan p {
+    border-color: #00FFD4;
+}
+
+.cyan h2 {
+    color: #00FFD4;
+}
+
+
+
+section h2, section p{
+    border: 2px solid;       
+}
+
+section h2 {    
+    margin-bottom: -2px;
+    padding: 10px 20px 5px 15px;
+}
+
+section p {
+    padding: 10px 20px 15px 15px;
+}
+
 h2 {
     font-size: 32px;
-    line-height: 45px;
-    margin-bottom: 2px;
+    line-height: 45px;    
 }
 
 h3 {
@@ -90,10 +157,23 @@ h3 {
     margin-bottom: 5px;
 }
 
+h5{
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
 p {
     display: block;
     font-size: 16px;
     line-height: 27px;
+}
+
+.split {
+    width: 100px;
+    margin: 40px auto;
+    border-bottom: 2px dashed #00FFD4;
 }
 
 blockquote {
@@ -115,12 +195,12 @@ blockquote p:after {
     margin-top: 20px;
     transform: skew(350deg);
     opacity: 0.8;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 
 blockquote p {
     margin: 0 auto;    
-    margin-top: 62px;
+    margin-top: 50px;
     font-size: 36px;
     line-height: 48px;
     font-weight: bold;
@@ -174,6 +254,9 @@ ul {
     padding-bottom: 56.25%;
     overflow: hidden;
     margin-bottom: 35px;
+    box-shadow: 0px 20px 76px -32px rgba(112,112,112,1);
+    margin-bottom: 80px;
+
   }
           
 .embed-container iframe,
@@ -189,6 +272,7 @@ ul {
 video {
     margin-bottom: 30px;
     width: 100%;
+    box-shadow: 0px 20px 76px -32px rgba(112,112,112,1);
 }
 
 footer {
@@ -248,7 +332,7 @@ footer a {
 .container {
     position: relative;
     z-index: 1;
-    margin: 50px auto;
+    margin: 80px auto;
 }
 
 .title {
@@ -260,12 +344,15 @@ strong{
 }
 
 .title .text {
-    color: #f5f5f5;
-    margin-bottom: 35px;
-    margin-right: 25px;
-    font-family: boldo;
-    font-size: 38px;
-    line-height: 52px;
+    color: black;
+    margin-bottom: 69px;    
+    font-family: snackb;
+    font-size: 64px;
+    line-height: 98px;
+    /* text-transform: lowercase; */
+    text-align: center;
+    width: 100%;
+    transform: scale(1,1.05)
 }
 
 .ziggato:before {
@@ -320,12 +407,18 @@ strong{
 /* NOT MOBILE */
 @media only screen and (min-width: 701px) {
 
-    p, table {
+    section,p, table {
         margin-bottom: 70px;
     }
 
-    p {
-        width: 400px;
+    section {
+        width: 444px;
+        margin: 0 auto;        
+        transition: padding-left 1s ease;
+    }
+
+    section:hover {
+        padding-left:20px
     }
 
     footer {
@@ -337,11 +430,11 @@ strong{
     }
 
     .title .text {
-        width: 56%;
+        /* width: 56%; */
     }
 
     .container {
-        min-width: 700px;
+        min-width: 800px;
         width: 45%;
     }
 }
