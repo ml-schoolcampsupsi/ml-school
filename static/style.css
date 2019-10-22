@@ -21,27 +21,27 @@ time, mark, audio, video {
 
 @font-face {
     font-family: "boldo";
-    src: url("fonts/interbold.otf")
+    src: url("https://www.ml-camp.supsi.ch/fonts/interbold.otf")
 }
 
 @font-face {
     font-family: "corpo";
-    src: url("fonts/corpo.otf")
+    src: url("https://www.ml-camp.supsi.ch/fonts/corpo.otf")
 }
 
 @font-face {
     font-family: "sughio";
-    src: url("fonts/sughio.ttf")
+    src: url("https://www.ml-camp.supsi.ch/fonts/sughio.ttf")
 }
 
 @font-face {
     font-family: "snack";
-    src: url("fonts/usnack.woff")
+    src: url("https://www.ml-camp.supsi.ch/fonts/usnack.woff")
 }
 
 @font-face {
     font-family: "snackb";
-    src: url("fonts/snack.woff")
+    src: url("https://www.ml-camp.supsi.ch/fonts/snack.woff")
 }
 
 /* GLOBALS */
