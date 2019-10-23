@@ -9,6 +9,7 @@
 Lorenzo Romagnoli
 
 Serena Cangiano
+
 22.10.2019
 
 Machine Learning @School Camp è un corso pratico sui concetti e le tecnologie di Machine Learning indirizzato a studenti delle scuole professionali. Tramite l’utilizzo di risorse aperte, demo web e strumenti interattivi, studenti di scuole professionali fanno esperienza di un processo progettuale durante il quale acquisiscono delle competenze su come realizzare progetti digitali basati sul Machine Learning e su come ideare e prototipare velocemente delle soluzioni che hanno un impatto sulle vite delle persone.
