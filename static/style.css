@@ -19,6 +19,10 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+html, body {
+    width: 100%;
+}
+
 @font-face {
     font-family: "boldo";
     src: url("fonts/interbold.otf")
@@ -157,11 +161,8 @@ h3 {
     margin-bottom: 5px;
 }
 
-h5{
-    font-size: 18px;
-    line-height: 30px;
-    text-align: center;
-    margin-bottom: 50px;
+h5{    
+    text-align: center;    
 }
 
 p {
@@ -172,7 +173,6 @@ p {
 
 .split {
     width: 100px;
-    margin: 40px auto;
     border-bottom: 2px dashed #00FFD4;
 }
 
@@ -183,9 +183,13 @@ blockquote {
     max-width: 100%
 }
 
+blockquote p {
+    margin: 0 auto;        
+    font-weight: bold;    
+}
+
 blockquote p:after {
-    width: 100%;
-    height: 25px;
+    width: 100%;    
     content: "";
     display: block;
     background: url('media/regione.png');    
@@ -195,17 +199,6 @@ blockquote p:after {
     margin-top: 20px;
     transform: skew(350deg);
     opacity: 0.8;
-    margin-bottom: 50px;
-}
-
-blockquote p {
-    margin: 0 auto;    
-    margin-top: 50px;
-    font-size: 36px;
-    line-height: 48px;
-    font-weight: bold;
-    transform: skew(10deg);
-    width: 100%;    
 }
 
 blockquote a {
@@ -252,12 +245,9 @@ ul {
 .embed-container {
     position: relative;
     padding-bottom: 56.25%;
-    overflow: hidden;
-    margin-bottom: 35px;
-    box-shadow: 0px 20px 76px -32px rgba(112,112,112,1);
+    overflow: hidden;        
     margin-bottom: 80px;
-
-  }
+}
           
 .embed-container iframe,
 .embed-container object,
@@ -275,22 +265,21 @@ video {
     box-shadow: 0px 20px 76px -32px rgba(112,112,112,1);
 }
 
-footer {
-    position: absolute;
-    /* bottom: 0; */
-    background: black;
+footer {        
+    display: flex;
+    justify-content: space-around;
+    border-top: 2px dashed #00FFD4;
 }
 
 footer p {
-    color: #F5F5F5;
+    color: black;
     width: 100%;
-    text-align: center;
-    margin: 27px 0px;
+    text-align: center;    
     line-height: 36px;
 }
 
 footer a {
-    color: #F5F5F5;
+    color: black;
 }
 
 .purple {
@@ -344,15 +333,11 @@ strong{
 }
 
 .title .text {
-    color: black;
-    margin-bottom: 69px;    
-    font-family: snackb;
-    font-size: 64px;
-    line-height: 98px;
-    /* text-transform: lowercase; */
+    color: black;    
+    font-family: snackb;    
     text-align: center;
     width: 100%;
-    transform: scale(1,1.05)
+    transform: scale(1,1.05);      
 }
 
 .ziggato:before {
@@ -372,16 +357,37 @@ strong{
 /* MOBILE */
 @media only screen and (max-width: 700px) {
 
-    p, table {
+    table {
         margin-bottom: 40px;
     }
 
-    p {
+    section {
         width: 100%;
-    }
+        margin: 0 auto 40px auto;        
+    }    
 
     footer {
-        width: 70%;
+        width: 100%;
+        flex-direction: column;
+        padding: 40px 0;
+    }
+
+    blockquote p {
+        width: 80%;      
+        font-size: 27px;
+        line-height: 39px;  
+        transform: skew(10deg) translateX(-11px);        
+    }
+
+    blockquote p:after {    
+        margin-bottom: 35px;
+        height: 20px;
+    }
+
+    h5 {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 40px;
     }
 
     .topbg {
@@ -392,6 +398,9 @@ strong{
         width: 100%;
         margin-top: 20px;
         color: black;
+        font-size: 35px;
+        margin: 40px auto;
+        line-height: 55px;
     }
 
     .title .wavy {
@@ -399,21 +408,29 @@ strong{
     }
 
     .container {
-        width: 90%;
+        width: 95%;
         margin: 0 auto;
     }
+
+    .embed-container {    
+        margin-bottom: 40px;
+    }
+
+    .split {
+        margin: 30px auto;
+    }    
   }
 
 /* NOT MOBILE */
 @media only screen and (min-width: 701px) {
 
-    section,p, table {
+    table {
         margin-bottom: 70px;
     }
 
     section {
         width: 444px;
-        margin: 0 auto;        
+        margin: 0 auto 70px auto;        
         transition: padding-left 1s ease;
     }
 
@@ -423,6 +440,26 @@ strong{
 
     footer {
         width: 100%;
+        padding: 40px 0;
+    }  
+    
+    
+    blockquote p {
+        width: 100%;        
+        font-size: 36px;
+        line-height: 48px;
+        transform: skew(10deg);
+    }
+
+    blockquote p:after {    
+        margin-bottom: 50px;
+        height: 25px;
+    }
+
+    h5 {
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 50px;
     }
 
     .wavy-mobile {
@@ -430,11 +467,22 @@ strong{
     }
 
     .title .text {
-        /* width: 56%; */
+        font-size: 64px;
+        line-height: 98px;    
+        margin-bottom: 69px;  
     }
 
     .container {
         min-width: 800px;
         width: 45%;
+    }
+
+    .embed-container {    
+        margin-bottom: 80px;
+        box-shadow: 0px 20px 76px -32px rgba(112,112,112,1);
+    }
+
+    .split {
+        margin: 40px auto;
     }
 }

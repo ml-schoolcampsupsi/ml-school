@@ -18,7 +18,7 @@ videoLink: "https://www.youtube.com/embed/2Q1bUWRM2i0"
 <div class="split"></div>
 <blockquote>
     <p>
-        <a href="https://www.laregione.ch/rubriche/tecnologia/1377582/l-intelligenza-artificiale-nei-progetti-di-23-giovani-ticinesi">
+        <a target="_blank" href="https://www.laregione.ch/rubriche/tecnologia/1377582/l-intelligenza-artificiale-nei-progetti-di-23-giovani-ticinesi">
             "L'intelligenza artificiale nei progetti di 23 giovani ticinesi"
         </a>
     </p>   
