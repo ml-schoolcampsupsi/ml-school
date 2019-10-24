@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
         if (!a.hasAttribute("href")) a.parentNode.removeChild(a)
     })
 
-    Mousetrap.bind('up up down down left right left right b a enter', function() {    
+    user.bind(secret, function() {    
         if (!cheats) {
             cheatsAudio.play()
             cheats = true
