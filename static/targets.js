@@ -1,0 +1,1 @@
+Array.from(document.getElementsByTagName("a")).map(a => a.setAttribute("target", "_blank"))
