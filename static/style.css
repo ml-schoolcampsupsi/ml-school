@@ -117,6 +117,18 @@ p,li, table, h5 {
     color: #00FFD4;
 }
 
+.cyanh3 {
+    color: #00FFD4;
+}
+
+.violeth3 {
+    color: #B600FF;
+}
+
+.orangeh3 {
+    color: #ffae00;
+}
+
 section h2, section p{
     border: 2px solid;       
 }
@@ -192,6 +204,7 @@ li {
 
 table {
     font-size: 14px;
+    width: 100%;
 }
 
 td, th {
@@ -450,11 +463,16 @@ strong{
         font-size: 64px;
         line-height: 98px;    
         margin-bottom: 69px;  
+    }    
+
+    .regular {
+        min-width: 800px;
+        max-width: 1280px;               
+        width: 45%; 
     }
 
-    .container {
-        min-width: 800px;
-        width: 45%;
+    .slim {
+        width: 700px;    
     }
 
     .embed-container {    

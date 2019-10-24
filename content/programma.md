@@ -4,7 +4,7 @@ date: 2019-05-29T22:28:30+01:00
 pageTitle: Programma
 ---
  
-### Giorno 1 · Lunedì 24 
+### Giorno 1_Lunedì 24 
 
 <!-- bello il markdown -->
 | 08:30 - 08:45 | 👂Presentazione degli obiettivi del camp, dei tutor e dei partecipanti |
@@ -19,7 +19,7 @@ pageTitle: Programma
 | 14:00 - 14:10 | 🍕Pausa                                                                                |
 | 14:10 - 15:00 | 👂🖐️Approfondimento di ml5.js: la classificazione e il continuous camera feed          |
 
-### Giorno 2 · Martedì 25 
+### Giorno 2_Martedì 25 
 
 | 08:30 - 10:30: | 👂🖐️Transfer learning: come insegnare alla macchine a riconoscere gli oggetti  |
 | -------------- |:------------------:|
@@ -28,12 +28,12 @@ pageTitle: Programma
 | 13:00 - 14:00: | 👂🖐️Divisione in gruppi e sfida |
 | 14:00 - 15:00: | 👂🖐️Presentazione delle idee  |
 
-### Giorno 3 · Mercoledì 26
+### Giorno 3_Mercoledì 26
 
 | 08:30 - 15:00: | 🖐️Lavoro autonomo |
 | -------------- | ----------------- |
 
-### Giorno 4 · Giovedì 27
+### Giorno 4_Giovedì 27
 
 | 08:30 - 11:00: | 🖐️Debuggiamo i progetti insieme |
 | -------------- | ----------------- |

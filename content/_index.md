@@ -42,7 +42,7 @@ videoLink: "https://www.youtube.com/embed/2Q1bUWRM2i0"
     </h2>
     <p>
         Il camp dura quattro giorni e combina lezioni teoriche e attività pratiche finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning. 
-        <a href="posts/programma">
+        <a href="programma">
             Vai al programma
         <a>
         .

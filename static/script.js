@@ -30,7 +30,7 @@ Array.from(document.querySelector("footer").getElementsByTagName("a")).map(a => 
 let h3h3 = el => {    
     var col = cols[~~(Math.random()*cols.length)]    
     var char = chars[~~(Math.random()*chars.length)]    
-    el.className+=(" "+col)
+    el.className+=(" "+col+"h3")
     el.innerHTML = char+el.innerHTML    
 }
 
