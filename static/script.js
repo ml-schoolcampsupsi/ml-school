@@ -1,24 +1,40 @@
-document.addEventListener("DOMContentLoaded", function(event) {  
+let cols = ['orange','violet','cyan']
+let chars = ['//', '>_', '.']
 
-    let DELTA = ((window.innerWidth-444)/2)-(window.innerWidth/12)
-    console.log(DELTA)
-    DELTA = Math.min(DELTA, 80)
-    console.log(DELTA)
-    var flip = true
+document.addEventListener("DOMContentLoaded", function(event) {      
+
+    let DELTA = ((window.innerWidth-444)/2)-(window.innerWidth/12)    
+    DELTA = Math.min(DELTA, 80)        
+
+    Array.from(document.getElementsByTagName("h3")).map(h3 => h3h3(h3))
 
     if (window.innerWidth > 700) {
-        var sections = document.querySelectorAll("section")
-
-        for (let i=0; i<sections.length; i++) {
-            const section = sections[i]
-            const n = (Math.floor(Math.random()*DELTA*2))-DELTA
-            section.style.transform = "translateX(" + n + "px)"                    
-        }
+        Array.from(document.querySelectorAll("section")).map(section => sbunna(section, DELTA))        
     }
 
 })
 
-let fas = document.querySelector("footer").getElementsByTagName("a")
-for(i=0; i< fas.length; i++ ) {
-    if (!fas[i].hasAttribute("href")) fas[i].parentNode.removeChild(fas[i])
+
+// horrible fix for a horrible framework. 
+// don't use hugo please, let it disappear
+// as just another human mistake, 
+// washed out by the unfolding of history
+Array.from(document.querySelector("footer").getElementsByTagName("a")).map(a => {
+    if (!a.hasAttribute("href")) a.parentNode.removeChild(a)
+})
+
+
+// FUNCTIONS
+// FUNCTIONS
+// FUNCTIONS
+let h3h3 = el => {    
+    var col = cols[~~(Math.random()*cols.length)]    
+    var char = chars[~~(Math.random()*chars.length)]    
+    el.className+=(" "+col)
+    el.innerHTML = char+el.innerHTML    
+}
+
+let sbunna = (section, D) => {    
+    const n = (Math.floor(Math.random()*D*2))-D
+    section.style.transform = "translateX(" + n + "px)"
 }

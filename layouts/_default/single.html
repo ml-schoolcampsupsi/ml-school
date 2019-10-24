@@ -11,21 +11,17 @@
     <title>{{ .Params.title }}</title>
     <link rel="canonical" href="{{ .Permalink }}" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}style.css" />
+    <link rel="icon" type="image/png" href="media/favicon.png" />
 </head>
-<body>      
-
+<body>          
     <div class="container">
       
       <!-- page title -->
       {{ with .Params.pageTitle }}        
-      <div class="title">
-        <div class="text">
-          {{.}}
-        </div>
-        <div class="wavy"></div>
-      </div>
-      {{ end }}
-
+        <h1>
+            <span class="orange">>_</span>{{.}}
+        <h1>      
+      {{ end }}      
       <!-- video parameter -->
       <!-- {{ with .Params.videoLink }}        
       <iframe src={{.}} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
@@ -46,14 +42,7 @@
       {{ .Content }}
 
     </div>
-    <footer>        
-      <p>     
-          © <script>document.write(new Date().getFullYear())</script> · 
-          <a href="http://www.supsi.ch">SUPSI</a> / Con il supporto di           
-          <a href="www.grstiftung.ch">Gebert Rüf Stiftung.</a><br>
-          <a class="purple" href="mailto:serena.cangiano@supsi.ch">Contatti</a>
-      </p>      
-    </footer>  
+    {{ partial "footer.html" . }}    
     <!-- scripts -->  
     <script src="{{ .Site.BaseURL }}script.js"></script>
     <script src="{{ .Site.BaseURL }}jquery.js"></script>

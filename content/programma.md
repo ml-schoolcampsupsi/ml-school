@@ -1,11 +1,12 @@
 ---
 title: "Programma"
 date: 2019-05-29T22:28:30+01:00
+pageTitle: Programma
 ---
-# Programma
  
 ### Giorno 1 · Lunedì 24 
 
+<!-- bello il markdown -->
 | 08:30 - 08:45 | 👂Presentazione degli obiettivi del camp, dei tutor e dei partecipanti |
 | ------------- |:--------------------------------------------------------------------------------------:|  
 | 08:45 - 09:30 | 👂Introduzione al Machine Learning                                                     |

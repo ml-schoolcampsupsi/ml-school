@@ -76,7 +76,8 @@ a {
 }
 
 h1,h3 {
-    font-family: boldo;
+    font-family: snack-med;
+    transform: scale(1,1.05);      
 }
 
 h2 {
@@ -87,23 +88,8 @@ p,li, table, h5 {
     font-family: corpo;
 }
 
-h1 {
-    font-size: 48px;
-    margin-bottom: 7px;
-    margin-bottom: 25px;
-}
 
-h1:after {
-    content: "";
-    display: inline-block;
-    width: 45%;
-    border-top: 2px solid #00FFD4;    
-    margin-left: 4%;
-    height: 13px;
-}
-
-
-.title .orange {
+.title .orange, h1 .orange {
     color: #B600FF;
 }
 
@@ -130,8 +116,6 @@ h1:after {
 .cyan h2 {
     color: #00FFD4;
 }
-
-
 
 section h2, section p{
     border: 2px solid;       
@@ -219,7 +203,7 @@ td:first-child, th:first-child {
 }
 
 tr {
-    border-bottom: 1px dotted #999;
+    border-bottom: 1px dotted #00FFD4;
     display: block;
     padding: 1px 0 4px 0;
     transition: background 0.2s;
@@ -389,13 +373,14 @@ strong{
         display: none;
     }
 
-    .title .text {
+    .title .text, h1 {
         width: 100%;
         margin-top: 20px;
         color: black;
         font-size: 34px;
         margin: 40px auto;
         line-height: 50px;
+        text-align: center;
     }
 
     .title .wavy {
@@ -461,7 +446,7 @@ strong{
         display: none;
     }
 
-    .title .text {
+    .title .text, h1 {
         font-size: 64px;
         line-height: 98px;    
         margin-bottom: 69px;  

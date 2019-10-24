@@ -48,32 +48,13 @@
       {{ .Content }}
 
     </div>  
-      
-    <footer>        
-      <p>     
-          <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA</a>
-      </p>
-      <p>
-          <a target="_blank" href="http://www.supsi.ch/lcv">SUPSI</a>, con il supporto di           
-          <a target="_blank" href="http://www.grstiftung.ch">Gebert Rüf Stiftung.</a>
-      </p>
-      <p>
-          <a class="purple" target="_blank" href="mailto:serena.cangiano@supsi.ch">Contatti</a>
-      </p>      
-    </footer>  
+
+    {{ partial "footer.html" . }}    
 
     <!-- scripts -->
-    <script src="{{ .Site.BaseURL }}script.js"></script>
+    <script src="{{ .Site.BaseURL }}script.js"></script>    
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142374400-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-142374400-1');
-    </script>
+    {{ partial "analytics.html" . }}
 
 </body>
 </html>
