@@ -21,8 +21,8 @@
       <!-- page title -->
       {{ with .Params.pageTitle }}        
       <div class="title">
-        <div class="text">
-          <span class="orange">>_</span>{{.}} 
+        <div class="text" id="hhh">
+          <span class="orange">>_</span><span id="titulo">{{.}}</span>
         </div>      
       </div>
       {{ end }}      
@@ -54,6 +54,7 @@
     {{ partial "footer.html" . }}    
 
     <!-- scripts -->
+    <script src="https://craig.global.ssl.fastly.net/js/mousetrap/mousetrap.min.js"></script>
     <script src="{{ .Site.BaseURL }}script.js"></script>    
 
     {{ partial "analytics.html" . }}

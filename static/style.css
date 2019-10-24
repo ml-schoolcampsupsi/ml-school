@@ -114,6 +114,10 @@ p,li, table, h5 {
     color: #B600FF;
 }
 
+.title .hacker, h1 .hacker {
+    color: #00FF00;
+}
+
 .orange h2, .orange p {
     border-color: #ffae00;
 }
@@ -336,6 +340,20 @@ strong{
     text-align: center;
     width: 100%;
     transform: scale(1,1.05);      
+}
+
+input {
+    color: black;    
+    font-family: snack-med;    
+    text-align: left;
+    /* width: 100%; */
+    transform: scale(1,1.05); 
+    font-size: 64px;
+    line-height: 98px;    
+    margin-bottom: 69px;       
+    background: transparent;
+    border: 0;
+    outline: none;
 }
 
 .ziggato:before {
