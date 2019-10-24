@@ -1,7 +1,14 @@
 let cols = ['orange','violet','cyan']
 let chars = ['//', '>_', '.']
 
-document.addEventListener("DOMContentLoaded", function(event) {      
+document.addEventListener("DOMContentLoaded", (event) => {      
+
+    document.getElementById("cover").onclick = (e) => {        
+        e.target.remove()
+        document.getElementById("video-container").style.display = "block"
+        document.getElementById("video-container").innerHTML = "<iframe src='https://www.youtube.com/embed/2Q1bUWRM2i0?&autoplay=1' frameborder='0' allow='autoplay; fullscreen' allowfullscreen autoplay></iframe>"
+
+    }
 
     let DELTA = ((window.innerWidth-444)/2)-(window.innerWidth/12)    
     DELTA = Math.min(DELTA, 80)        

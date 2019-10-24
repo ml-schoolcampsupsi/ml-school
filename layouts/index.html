@@ -28,8 +28,9 @@
 
       <!-- video parameter -->
       {{ with .Params.videoLink }}
-      <div class="embed-container">
-        <iframe src={{.}} frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>    
+      <img src="media/cover.webp" alt="video cover" id="cover">
+      <div class="embed-container" id="video-container">        
+        <!-- <iframe src='https://www.youtube.com/embed/2Q1bUWRM2i0' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe>     -->
       </div>        
       {{ end }}
 

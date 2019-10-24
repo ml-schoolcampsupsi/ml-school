@@ -244,6 +244,7 @@ tr:hover{
     padding-bottom: 56.25%;
     overflow: hidden;        
     margin-bottom: 80px;
+    background: black;
 }
           
 .embed-container iframe,
@@ -429,7 +430,14 @@ strong{
         width: 700px;    
     }
 
+    #cover {
+        width: 100%;        
+        margin-bottom: 80px;
+        box-shadow: 0px 20px 76px -32px rgba(112,112,112,1);
+    }
+
     .embed-container {    
+        display: none;
         margin-bottom: 80px;
         box-shadow: 0px 20px 76px -32px rgba(112,112,112,1);
     }
@@ -519,7 +527,13 @@ strong{
         margin: 0 auto;
     }
 
+    #cover {
+        width: 100%;        
+        margin-bottom: 40px;        
+    }
+
     .embed-container {    
+        display: none;
         margin-bottom: 40px;
     }
 
