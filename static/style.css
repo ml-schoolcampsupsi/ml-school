@@ -342,86 +342,6 @@ strong{
     margin-left: 187px;
 }
 
-/* MOBILE */
-@media only screen and (max-width: 700px) {
-
-    table {
-        margin-bottom: 40px;
-    }
-
-    section {
-        width: 100%;
-        margin: 0 auto 40px auto;        
-    }    
-
-    footer {
-        width: 100%;
-        flex-direction: column;
-        padding: 30px 0;
-    }
-
-    blockquote p {
-        width: 80%;      
-        font-size: 27px;
-        line-height: 39px;  
-        transform: skew(10deg) translateX(-11px);        
-    }
-
-    blockquote p:after {    
-        margin-bottom: 35px;
-        height: 20px;
-    }
-
-    .paguzu h2 {
-        margin-top: 40px;   
-    }
-
-    h3 {
-        margin-top: 40px;
-    }
-
-    h5 {
-        font-size: 17px;
-        line-height: 26px;
-        margin-bottom: 40px;
-    }
-
-    ul {
-        margin-bottom: 40px;
-    }
-
-    .topbg {
-        display: none;
-    }
-
-    .title .text, h1 {
-        width: 100%;
-        margin-top: 20px;
-        color: black;
-        font-size: 38px;
-        margin: 40px auto;
-        line-height: 50px;
-        text-align: center;
-    }
-
-    .title .wavy {
-        display: none;
-    }
-
-    .container {
-        width: 95%;
-        margin: 0 auto;
-    }
-
-    .embed-container {    
-        margin-bottom: 40px;
-    }
-
-    .split {
-        margin: 30px auto;
-    }    
-  }
-
 /* NOT MOBILE */
 @media only screen and (min-width: 701px) {
 
@@ -486,9 +406,9 @@ strong{
     }    
 
     .regular {
-        min-width: 800px;
+        min-width: 700px;
         max-width: 1280px;               
-        width: 45%; 
+        width: 55%; 
     }
 
     .slim {
@@ -502,5 +422,111 @@ strong{
 
     .split {
         margin: 40px auto;
+    }
+}
+
+/* MOBILE */
+@media only screen and (max-width: 700px) {
+
+    table {
+        margin-bottom: 40px;
+    }
+
+    section {
+        width: 100%;
+        margin: 0 auto 40px auto;        
+    }    
+
+    footer {
+        width: 100%;
+        flex-direction: column;
+        padding: 30px 0;
+    }
+
+    blockquote p {
+        width: 80%;      
+        font-size: 27px;
+        line-height: 39px;  
+        transform: skew(10deg) translateX(-11px);        
+    }
+
+    blockquote p:after {    
+        margin-bottom: 35px;
+        height: 20px;
+    }
+
+    .paguzu h2 {
+        margin-top: 40px;   
+    }
+
+    h3 {
+        margin-top: 40px;
+    }
+
+    h5 {
+        font-size: 17px;
+        line-height: 26px;
+        margin-bottom: 40px;
+    }
+
+    ul {
+        margin-bottom: 40px;
+    }
+
+    .topbg {
+        display: none;
+    }
+
+    .title .text, h1 {
+        width: 100%;
+        margin-top: 20px;
+        color: black;
+        font-size: 34px;
+        margin: 40px auto;
+        line-height: 51px;
+        text-align: center;
+    }
+
+    .title .wavy {
+        display: none;
+    }
+
+    .container {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .embed-container {    
+        margin-bottom: 40px;
+    }
+
+    .split {
+        margin: 30px auto;
+    }    
+  }
+
+/* SMALL MOBILES */
+@media only screen and (max-width: 375px) {
+    .title .text, h1 {
+        width: 100%;
+        margin-top: 20px;
+        color: black;
+        font-size: 31px;
+        margin: 40px auto;
+        line-height: 46px;
+        text-align: center;
+    }
+}
+
+/* SMALL MOBILES */
+@media only screen and (max-width: 330px) {
+    .title .text, h1 {
+        width: 100%;
+        margin-top: 20px;
+        color: black;
+        font-size: 27px;
+        margin: 40px auto;
+        line-height: 41px;
+        text-align: center;
     }
 }
