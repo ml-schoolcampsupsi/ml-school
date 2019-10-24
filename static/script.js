@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     user.bind(secret, function() {    
         if (!cheats) {
             cheatsAudio.play()
-            cheats = true
+            cheats = true 
             document.querySelector(".title .orange").className = "hacker"
             document.querySelector("#titulo").remove()
             let i = document.createElement("input")
