@@ -12,6 +12,8 @@
     <link rel="canonical" href="{{ .Permalink }}" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}style.css" />
     <link rel="icon" type="image/png" href="../media/favicon.png" />
+
+    {{ partial "og.html" . }}
 </head>
 <body>          
     <div class="container slim paguzu">
