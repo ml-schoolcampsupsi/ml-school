@@ -125,6 +125,10 @@ nav a {
     border-color: #00FFD4;
 }
 
+nav a:hover {
+    border-color:#B600FF;
+}
+
 
 .title .orange, h1 .orange {
     color: #B600FF;
