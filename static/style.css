@@ -109,6 +109,22 @@ p,li, table, h5 {
     font-family: corpo;
 }
 
+nav {
+    width: 95%;
+    position: absolute;
+    top: 0;
+    left: 50%;        
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transform: translateX(-50%);         
+}
+
+nav a {
+    font-family: corpo;        
+    border-color: #00FFD4;
+}
+
 
 .title .orange, h1 .orange {
     color: #B600FF;
@@ -322,8 +338,7 @@ footer a {
 
 .container {
     position: relative;
-    z-index: 1;
-    margin: 80px auto;
+    z-index: 1;    
 }
 
 .title {
@@ -405,6 +420,10 @@ input {
         height: 25px;
     }
 
+    .container {
+        margin: 110px auto;
+    }
+
     .paguzu h2 {
         margin-top: 50px;   
     }
@@ -426,6 +445,14 @@ input {
 
     ul {
         margin-bottom: 50px;
+    }
+
+    nav {
+        height: 120px;
+    }
+
+    nav a {
+        font-size: 18px;
     }
 
     .wavy-mobile {
@@ -522,6 +549,15 @@ input {
         margin-bottom: 40px;
     }
 
+    nav {
+        height: 80px;
+        justify-content: space-around;
+    }
+
+    nav a {
+        font-size: 15px;
+    }
+
     .topbg {
         display: none;
     }
@@ -542,7 +578,11 @@ input {
 
     .container {
         width: 95%;
-        margin: 0 auto;
+        margin: 80px auto;
+    }
+
+    .regular {
+        margin: 50px auto;
     }
 
     #cover {

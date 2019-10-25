@@ -1,1 +1,1 @@
-Array.from(document.getElementsByTagName("a")).map(a => a.setAttribute("target", "_blank"))
+Array.from(document.getElementsByTagName("a")).map(a => (!a.hasAttribute("target")) ? a.setAttribute("target", "_blank"):false)

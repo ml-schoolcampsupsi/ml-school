@@ -14,8 +14,11 @@
     <link rel="icon" type="image/png" href="media/favicon.png" />
     {{ partial "og.html" . }}
 </head>
-<body>        
-
+<body>                
+    <nav>
+      <a href="risorse">Risorse</a>
+      <a href="progetti">Progetti</a>
+    </nav>
     <div class="container regular">
       
       <!-- page title -->
@@ -56,6 +59,7 @@
     <!-- scripts -->
     <!-- <script src="https://craig.global.ssl.fastly.net/js/mousetrap/mousetrap.min.js"></script> -->
     <script src="{{ .Site.BaseURL }}script.js"></script>    
+    <script src="{{ .Site.BaseURL }}index.js"></script>    
 
     {{ partial "analytics.html" . }} 
 
