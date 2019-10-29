@@ -10,22 +10,16 @@
 
 #  
 
-**Auteurs **
-Lorenzo Romagnoli 
+**Auteurs**
 
+Lorenzo Romagnoli 
 Serena Cangiano
 
 22.10.2019
  
  
 
- 
-
- 
-
- 
-
-**Open Instructable**
+# **Open Instructable**
 
 Machine Learning @School Camp est un cours pratique sur les concepts et les technologies de Machine Learning destiné aux étudiants des écoles professionnelles. Grâce à des ressources ouvertes, des démonstrations Web et des outils interactifs, les étudiants des écoles professionnelles font l'expérience d'un processus de conception au cours duquel ils acquièrent des compétences sur la manière de mettre en œuvre des projets numériques basés sur le Machine Learning et sur la manière de concevoir et de prototyper rapidement des solutions qui ont un impact sur la vie des personnes.
 
