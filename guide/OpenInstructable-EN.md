@@ -61,7 +61,7 @@ What does Machine Learning mean? The first session aims at sharing a bit of theo
 
 After learning how to use a trained model to recognise images, an interactive demo is shown, which explains the operation and creation process of a training model. The interactive activity introduces the students to the “supervised learning” concept to train a *deep neural network* to classify gestures. The interactive demo presents fundamental concepts, such as *training/evaluation split, classifier evaluation, baseline accuracy, overfitting, generalisation, data augmentation*. The activity consists of gathering images of hands performing rock-paper-scissors gestures according to the standards that enable a neural network to learn the difference between different gestures.
 
-●   📖 [Activity description](https://github.com/alessandro-giusti/rock-paper-scissors/blob/master/EAAI Paper.pdf)
+●   📖 [Activity description](https://github.com/alessandro-giusti/rock-paper-scissors/blob/master/EAAI%20Paper.pdf)
 
 ●   👨‍💻 [Code used](https://github.com/alessandro-giusti/rock-paper-scissors)
 
