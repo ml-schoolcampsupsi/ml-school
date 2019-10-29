@@ -1,4 +1,3 @@
-#  
 
 # **Machine Learning   @School Camp**
 
@@ -7,8 +6,6 @@
 **Open Instructable** **V.0.1.** 
  
  
-
-#  
 
 **Auteurs**
 
