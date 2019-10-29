@@ -1,37 +1,23 @@
 
 
-#  
-
 # **Machine Learning   @School Camp**
 
  
 
 **Open Instructable** **V.0.1.** 
  
- 
 
-#  
+**Autoren** 
 
-#  
-
-#  
-
-**Autoren
-** Lorenzo Romagnoli 
+Lorenzo Romagnoli 
 
 Serena Cangiano
 
 22.10.2019
- 
- 
 
  
 
- 
-
- 
-
-**Open Instructable**
+# **Open Instructable**
 
 Machine Learning @School Camp ist ein praktischer Kurs zu maschinellen Lernkonzepten und -technologien für Berufsschüler. Durch den Einsatz offener Ressourcen, Webdemos und interaktiver Tools erfahren die Schüler von Berufsschulen einen Entwurfsprozess, in dem sie lernen, wie sie digitale Projekte basierend auf Machine Learning umsetzen und schnell Lösungen entwerfen und Prototypen erstellen können, die sich auf das Leben der Menschen auswirken.
 
@@ -127,7 +113,7 @@ Ein technologisches und interaktives Projekt zu präsentieren, das Machine Learn
 
 Das Camp wird mit der Übergabe der Teilnahmebescheinigungen abgeschlossen. Eine symbolische Geste, um allen für ihren Einsatz und Teilnahme zu danken,
 
-●   👨‍💻 [**ZERTIFIKAT**](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0) 
+●   👨‍💻 [**ZERTIFIKAT**](https://docs.google.com/presentation/d/1gqzZglKz6R-phzhNsW3Yn4QvbQosBkNlk6Ot6O17b5g/edit?usp=sharing) 
 
  
 
