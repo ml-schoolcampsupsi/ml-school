@@ -10,12 +10,8 @@
 
 #  
 
-#  
-
-#  
-
-**Auteurs
-** Lorenzo Romagnoli 
+**Auteurs **
+Lorenzo Romagnoli 
 
 Serena Cangiano
 
