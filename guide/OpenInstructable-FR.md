@@ -1,5 +1,3 @@
-# **![Image result for supsi logo](file:////Users/serena/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)**
-
 #  
 
 # **Machine Learning   @School Camp**
