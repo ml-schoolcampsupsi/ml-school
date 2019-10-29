@@ -13,13 +13,13 @@ La guida è disponibile in quattro lingue:
 - [🇩🇪 DEUTSCH](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
 
 Siete dei docenti innovatori e volete portare l’intelligenza artificiale a scuola con un approccio basato sulla pratica e il coding? Potete proporre il camp nella vostra scuola e utilizzare le risorse di questa guida. Per saperne di più scrivete a:
-Serena Cangiano FabLab SUPSI [serena.cangiano@supsi.ch]( [serena.cangiano@supsi.ch](mailto:serena.cangiano@supsi.ch) 
+Serena Cangiano FabLab SUPSI [serena.cangiano@supsi.ch](mailto:serena.cangiano@supsi.ch) 
 
 ## Attività
-### 1_Benvenuto (15 minuti)
+### 1)_Benvenuto (15 minuti)
 I docenti e gli studenti e si presentano. I docenti raccontano gli obiettivi del camp e il programma dettagliato delle attività della settimana.
 
-### 2_Introduzione al Machine Learning: <br> cosa, come, perché (45 minuti)
+### 2)_Introduzione al Machine Learning: <br> cosa, come, perché (45 minuti)
 Cosa si intende per Machine Learning? La prima sessione punta a condividere un po’ di teoria e a presentare cosa si può fare con questa nuova tecnologia. Il Machine Learning si trova in molti strumenti digitali della nostra vita quotidiana: in questa sessione i docenti spiegano quando e perché le tecnologie di ML sono utili e presentando esempi di progetti che utilizzano algoritmi di intelligenza artificiale, sia nel mondo industriale e scientifico, ma anche in campi più sperimentali come quello dell’arte e della creatività. L’introduzione prevede un momento di discussione sulle diverse strategie di Machine Learning e quando queste possono essere usate in un progetto.
 
 - 📖&nbsp;&nbsp;[SLIDES](https://docs.google.com/presentation/d/1y0v19tApolSNb8qT6R_xuB5IoO96Lw9n4PFMs0ovnAc/edit?usp=sharing)
@@ -70,16 +70,16 @@ Al fine di realizzare il progetto di controller per videogiochi basato su ML, in
 - 👨‍💻&nbsp;&nbsp;[**ESEMPIO 5** - inviare comandi della tastiera attraverso mqtt](https://editor.p5js.org/FabLabSUPSI/sketches/FRdFDkcpS)
 - 👨‍💻&nbsp;&nbsp;[**ESEMPIO 6** - classificatore webcam  + invio alla keyboard](https://editor.p5js.org/FabLabSUPSI/sketches/4YPqKBVyJ)
 
-### 10_Sketch&Pitch  (1 ora)
+### 10)_Sketch&Pitch  (1 ora)
 In questa sessione si chiede agli studenti di ideare delle possibili applicazioni di controller per videogiochi considerando le opportunità tecnologiche esplorate durante le sessioni pratiche con il codice. Durante la sessione si seleziona il videogioco da un [catalogo online](https://archive.org/details/internetarcade) o si chiede agli studenti di selezionare il loro videogioco preferito. L’obiettivo della sessione e lavorare in gruppo per definire il funzionamento del controller rispetto alla logica del videogioco selezionato e gli elementi dell’interfaccia del progetto finale. Per stimolare la creatività e lo sviluppo di competenze creative e di comunicazione si chiede agli studenti di disegnare il progetto su dei fogli di carta e di presentarli alla classe in pochi minuti.
 
-### 11_Lavoro indipendente di gruppo (4 ore)
+### 11)_Lavoro indipendente di gruppo (4 ore)
 Al fine di realizzare i prototipi funzionanti dei controller, gli studenti lavorano in gruppo e in maniera autonoma allo sviluppo del codice e al training dell’algoritmo di riconoscimento dei gesti.
 
-### 12_Presentazione e mostra dei progetti (1 ora)
+### 12)_Presentazione e mostra dei progetti (1 ora)
 Saper comunicare un progetto tecnologico e interattivo che usa Machine Learning è una competenza fondamentale per portare un’idea al livello di un progetto imprenditoriale che potrebbe avere un futuro riscontro sul mercato. Per questo motivo, in questa sessione finale si chiede agli studenti di presentare il prototipo funzionante alla classe e di condividere le difficoltà e il modo in cui sono state risolte dal punto di vista tecnico e progettuale. Questa presentazione aiuta a trasferire i saperi e le competenze acquisite in maniera peer-to-peer.
 
-### 13_Consegna del certificato di partecipazione
+### 13)_Consegna del certificato di partecipazione
 Il camp si conclude con la consegna dei certificati di partecipazione. Un gesto simbolico per ringraziare tutti per il loro impegno e partecipazione.
 
 - 👨‍💻&nbsp;&nbsp;[**CERTIFICATO**](https://docs.google.com/presentation/d/1gqzZglKz6R-phzhNsW3Yn4QvbQosBkNlk6Ot6O17b5g/edit?usp=sharing)
