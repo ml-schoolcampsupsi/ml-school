@@ -1,4 +1,3 @@
-#  
 
 # **Machine Learning   @School Camp**
 
@@ -6,7 +5,7 @@
 
 **Open Instructable** **V.0.1.** 
  
-#  
+ 
 
 **Authors** 
 
@@ -113,7 +112,7 @@ Knowing how to pitch a technological and interactive project that uses Machine L
 
 The camp ends with the delivery of the attendance certificates. A symbolic gesture to thank all for their commitment and participation.
 
-●   👨‍💻 [**CERTIFICATE**](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
+●   👨‍💻 [**CERTIFICATE**](https://docs.google.com/presentation/d/1gqzZglKz6R-phzhNsW3Yn4QvbQosBkNlk6Ot6O17b5g/edit?usp=sharing)
 
  
 
