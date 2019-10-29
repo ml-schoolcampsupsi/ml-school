@@ -82,6 +82,6 @@ Saper comunicare un progetto tecnologico e interattivo che usa Machine Learning 
 ### 13_Consegna del certificato di partecipazione
 Il camp si conclude con la consegna dei certificati di partecipazione. Un gesto simbolico per ringraziare tutti per il loro impegno e partecipazione.
 
-- 👨‍💻&nbsp;&nbsp;[**CERTIFICATO**](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0)
+- 👨‍💻&nbsp;&nbsp;[**CERTIFICATO**](https://docs.google.com/presentation/d/1gqzZglKz6R-phzhNsW3Yn4QvbQosBkNlk6Ot6O17b5g/edit?usp=sharing)
 
 
