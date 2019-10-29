@@ -1,7 +1,3 @@
-# **![Image result for supsi logo](file:////Users/serena/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)**
-
-
-
 #  
 
 # **Machine Learning   @School Camp**
@@ -10,30 +6,18 @@
 
 **Open Instructable** **V.0.1.** 
  
- 
-
 #  
 
-#  
+**Authors** 
 
-#  
-
-**Authors
-** Lorenzo Romagnoli
+Lorenzo Romagnoli
 
 Serena Cangiano
 
 22/10/2019
  
- 
 
- 
-
- 
-
- 
-
-**Open Instructable**
+#  **Open Instructable**
 
 Machine Learning @School Camp is a practical course on Machine Learning concepts and technologies addressed to students attending technical schools. Technical school students will gain experience on a design-driven process through the use of open educational resources, web demos and interactive tools. During this process, they will acquire skills on how to create digital projects based on Machine Learning. They will also learn how to come up with ideas and quickly prototype solutions that will have an impact on people’s lives.
 
