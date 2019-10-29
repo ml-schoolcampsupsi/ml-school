@@ -112,7 +112,7 @@ Savoir communiquer sur un projet technologique et interactif qui utilise le Mach
 
 Le camp se termine par la remise des certificats de participation. Un geste symbolique pour remercier toutes les personnes pour leur engagement et leur participation.
 
-●   👨‍💻 [**CERTIFICAT**](https://github.com/lorenzoromagnoli/mqtt_to_keyboard/releases/tag/1.0.0) 
+●   👨‍💻 [**CERTIFICAT**](https://docs.google.com/presentation/d/1gqzZglKz6R-phzhNsW3Yn4QvbQosBkNlk6Ot6O17b5g/edit?usp=sharing) 
 
  
 
