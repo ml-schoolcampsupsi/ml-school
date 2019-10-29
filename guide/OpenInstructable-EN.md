@@ -47,7 +47,7 @@ What does Machine Learning mean? The first session aims at sharing a bit of theo
 
 ### 4. Introduction to ml5.js – 1 hour
 
-[p5.js](https://p5js.org/) and[ml5.js](https://ml5js.org/) are the main two development tools used in the camp. ml5.js is a library that allows you to access Machine Learning algorithms and models that are available via the web browser. p5.js is a Javascript library used to develop graphic and interactive experiences based on the key principles of the[Processing](https://processing.org)open source programming environment. This session aims at setting up these tools on the students’ computers and at conveying them the notion of how to set a basic project using the[p5.js web editor](https://editor.p5js.org). The first example project guides the students towards the use of ml5.js for the image content analysis.
+[p5.js](https://p5js.org/) and[ml5.js](https://ml5js.org/) are the main two development tools used in the camp. ml5.js is a library that allows you to access Machine Learning algorithms and models that are available via the web browser. p5.js is a Javascript library used to develop graphic and interactive experiences based on the key principles of the [Processing] (https://processing.org) open source programming environment. This session aims at setting up these tools on the students’ computers and at conveying them the notion of how to set a basic project using the[p5.js web editor](https://editor.p5js.org). The first example project guides the students towards the use of ml5.js for the image content analysis.
 
 ●   📖 [p5.js reference page](https://p5js.org/reference)
 
