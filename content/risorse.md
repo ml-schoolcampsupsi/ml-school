@@ -10,7 +10,7 @@ La guida è disponibile in quattro lingue:
 - [🇮🇹 ITALIANO](content/Guide/OpenInstructable-IT.md)
 - [🇬🇧 ENGLISH](content/Guide/OpenInstructable-EN.md)
 - [🇫🇷 FRANÇAIS](content/Guide/OpenInstructable-FR.md)
-- [🇩🇪 DEUTSCH](content/Guide/OpenInstructable-EN.md)
+- [🇩🇪 DEUTSCH](guide/OpenInstructable-DE.md)
 
 Siete dei docenti innovatori e volete portare l’intelligenza artificiale a scuola con un approccio basato sulla pratica e il coding? Potete proporre il camp nella vostra scuola e utilizzare le risorse di questa guida. Per saperne di più scrivete a:
 Serena Cangiano FabLab SUPSI [serena.cangiano@supsi.ch](mailto:serena.cangiano@supsi.ch) 
