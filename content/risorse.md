@@ -7,10 +7,10 @@ date: 2019-05-29T22:28:30+01:00
 In questo Open Instructable sono documentate le attività del camp e le relative risorse. L' instructable punta ad essere una guida che abilita altri docenti delle scuole professionali ad organizzare il camp presso la loro scuola.
 La guida è disponibile in quattro lingue:
 
-- [🇮🇹 ITALIANO](content/Guide/OpenInstructable-IT.md)
-- [🇬🇧 ENGLISH](content/Guide/OpenInstructable-EN.md)
-- [🇫🇷 FRANÇAIS](content/Guide/OpenInstructable-FR.md)
-- [🇩🇪 DEUTSCH](guide/OpenInstructable-DE.md)
+- [🇮🇹 ITALIANO](https://github.com/ml-schoolcampsupsi/ml-school/blob/master/guide/OpenInstructable-IT.md)
+- [🇬🇧 ENGLISH](https://github.com/ml-schoolcampsupsi/ml-school/blob/master/guide/OpenInstructable-EN.md)
+- [🇫🇷 FRANÇAIS](https://github.com/ml-schoolcampsupsi/ml-school/blob/master/guide/OpenInstructable-FR.md)
+- [🇩🇪 DEUTSCH](https://github.com/ml-schoolcampsupsi/ml-school/blob/master/guide/OpenInstructable-DE.md)
 
 Siete dei docenti innovatori e volete portare l’intelligenza artificiale a scuola con un approccio basato sulla pratica e il coding? Potete proporre il camp nella vostra scuola e utilizzare le risorse di questa guida. Per saperne di più scrivete a:
 Serena Cangiano FabLab SUPSI [serena.cangiano@supsi.ch](mailto:serena.cangiano@supsi.ch) 
